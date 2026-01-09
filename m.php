@@ -47,30 +47,45 @@ background-color: #0085e7
 [견적 문의 회신시 최초 코드발급]<BR>
 <!-- <a href="http://192.168.100.19/ckx_code/1.php" target="_blank"> CKX-CODE 발급 </a>&nbsp; -->
 <!--<a href="../ckx_code/1.php" target="_blank"> CKX-CODE 발급 </a>&nbsp;-->
-<a href="../ckx_code/1.php" target="right"> CKX-CODE 발급 </a>&nbsp;
+<a href="../ckx_code/1.php" target="right"> CKX-CODE 발급 </a>&nbsp;<br>
+<a href="https://www.tradlinx.com/ko/container-terminal-schedule" target="right"> 컨테이너 터미널 스케쥴 </a>&nbsp;<br>
+<a href="http://192.168.100.19/bbs/zboard.php?id=work_data" target="_blank"> 업무 자료 저장소 </a>&nbsp;<BR>
 <!-- <a href="http://192.168.100.19/port2/1.php" target="_blank"> 선사별 운항 PORT 검색 </a>&nbsp; -->
-<a href="1.php" target="right"> 선사별 운항 PORT 검색 </a>&nbsp;
-<a href="https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp?_menuNo=23100" target="right"> 환율(하나은행) </a>&nbsp;
-<a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%99%98%EC%9C%A8%EA%B3%84%EC%82%B0" target="_blank"> 환율(네이버) </a>&nbsp;
-<a href="https://etrans3.klnet.co.kr/" target="_blank"> 이트란스 </a>&nbsp;
-<a href="https://www.forwarder.kr/tariff/?quarter=2022_3&chg_type=%EC%95%88%EC%A0%84%EC%9A%B4%EC%86%A1%EC%9A%B4%EC%9E%84&stitle=%EB%B6%80%EC%82%B0%EC%8B%A0%ED%95%AD%EA%B8%B0%EC%A0%90&Send_region1=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84&Send_region2=&Send_region3=&tariff_region=&extra9=&extra8=&extra5=&extra10=" target="right"> 운송료 조회(안전운임) </a>&nbsp;
-<a href="https://unipass.customs.go.kr/clip/index.do" target="right"> 한국 HSCODE 조회 </a>&nbsp;
-<a href="https://www.windy.com/?37.287,127.012,5" target="_blank"> 날씨 지도 보기 </a>&nbsp;
-<a href="http://192.168.100.19/bbs/zboard.php?id=work_data" target="_blank"> 업무 자료 저장소 </a>&nbsp;
-<a href="http://192.168.100.19/myadmin/index.php?lang=ko-euc-kr&server=1&db=ckx&table=line_surcharge&" target="_blank"> MYSQL DB 로그인 
-</a>&nbsp;
-<a href="https://www.google.com/maps/?authuser=0&entry=ttu" target="_blank"> 구글 지도 </a>&nbsp;
+<a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%99%98%EC%9C%A8%EA%B3%84%EC%82%B0" target="_blank"> 환율(네이버) </a>&nbsp;<BR>
+<a href="https://etrans3.klnet.co.kr/" target="_blank"> 이트란스 </a>&nbsp;<BR>
+<a href="http://www.bts24.co.kr/uat/uia/plism3Sub.do?menu_no=233" target="_blank"> 모선별 서류마감일 조회(프리즘) </a>&nbsp;<BR>
+<a href="https://www.logisview.com/svc/expTracking" target="_blank"> 로지스뷰(컨추적) </a>&nbsp;<BR>
+<a href="https://www.forwarder.kr/tariff/?quarter=2022_3&chg_type=%EC%95%88%EC%A0%84%EC%9A%B4%EC%86%A1%EC%9A%B4%EC%9E%84&stitle=%EB%B6%80%EC%82%B0%EC%8B%A0%ED%95%AD%EA%B8%B0%EC%A0%90&Send_region1=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84&Send_region2=&Send_region3=&tariff_region=&extra9=&extra8=&extra5=&extra10=" target="right"> 운송료 조회(안전운임) </a>&nbsp;<BR>
+<a href="https://unipass.customs.go.kr/clip/index.do" target="right"> 한국 HSCODE 조회 </a>&nbsp;<BR>
+<a href="https://hts.usitc.gov/search?query=4008.21" target="_blank"> 미국 HSCODE 조회 </a>&nbsp;<BR>
+<a href="https://www.windy.com/?37.287,127.012,5" target="_blank"> 날씨 지도 보기 </a>&nbsp;<BR>
+<a href="http://192.168.100.19/myadmin/index.php?lang=ko-euc-kr&server=1&db=ckx&table=line_surcharge&" target="_blank"> MYSQL DB 로그인 </a>&nbsp;<BR>
+<a href="https://www.google.com/maps/?authuser=0&entry=ttu" target="_blank"> 구글 지도 </a>&nbsp;<BR>
+<a href="https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp?_menuNo=23100" target="_blank"> 환율(하나은행) </a>&nbsp;<BR>
+<a href="https://www.forwarder.kr/curr/index.php?curr=cbm" target="_blank"> CBM 계산기, 컨사이즈 </a>&nbsp;<BR>
 
 <BR><BR>
 [POD별 운항 선사 찾기]<BR>
-<a href="https://www.forwarder.kr/shipping/link.php" target="right"> 쉬핑링크 </a>&nbsp;
-<a href="https://www.bigschedules.com/tou" target="right"> bigschedules.com </a>&nbsp;
-<a href="https://www.tradlinx.com/schedule?tab=fcl" target="right"> FCL 해상 스케쥴 </a>&nbsp;
-<a href="https://www.searates.com/maritime" target="right"> 전세계 PORT </a>&nbsp;
+<a href="https://www.forwarder.kr/shipping/link.php" target="right"> 쉬핑링크 </a>&nbsp;<BR>
+<a href="1.php" target="right"> CKX 선사별 운항 PORT 검색 </a>&nbsp;<BR>
+<a href="https://www.bigschedules.com/tou" target="right"> bigschedules.com </a>&nbsp;<BR>
+<a href="https://www.tradlinx.com/schedule?tab=fcl" target="right"> FCL 해상 스케쥴 </a>&nbsp;<BR>
+<a href="https://www.searates.com/maritime" target="right"> 전세계 PORT </a>&nbsp;<BR>
+
+<BR><BR>
+[업체별 관리 시트]<BR>
+<a href="https://docs.google.com/spreadsheets/d/1zQnF5yL2kPOInF-Mjbbwu97ez3YghTdTfA3T-6vdjgw/edit?gid=0#gid=0" target="right"> 동서콘솔 </a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1UEIQB6eaVqmb9ZKbWNcg_iF4yRu0Hicp5O4beywmZtc/edit?pli=1&gid=0#gid=0" target="right"> 진양 </a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1dDW97xPgDb3Jy2sMLYGI83gN7ih-OiYeZqmL6W_rrng/edit?pli=1&gid=0#gid=0" target="right"> 레오나 </a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1j7Uy7Oon09C-cPKcQDWiSxQXOdrVrka_o99lSUkOFtI/edit?pli=1&gid=0#gid=0" target="right"> 메버릭 </a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1y2-whAI2YAFl4WFhe8ttO6C7qKM9X6rpeFZC5-7jcOM/edit?gid=0#gid=0" target="right"> 화승 </a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1lNk6eXaeKLh2lhrruGZcxFIJgAXr92e2LdmQggfeMzQ/edit?gid=0#gid=0" target="right"> 우진 </a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/12pJ0hs0SD5yNxgiElVUj3ysSuaFqOP_JkbrOig8L7Rs/edit?gid=0#gid=0" target="right"> JBG </a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1tyC3X5r4lNl41o7Y11rw9DdVRY6VBLF18jW1zyGw9yM/edit?gid=0#gid=0" target="right"> 호산 </a>&nbsp;
+
 
 <BR><BR>
 [터미널정보, 화물 추적]<BR>
-<a href="https://www.tradlinx.com/ko/container-terminal-schedule" target="right"> 컨테이너 터미널 스케쥴 </a>&nbsp;
 <a href="https://www.searates.com/kr/container/tracking/" target="right"> 컨넘버 추적 </a>&nbsp;
 <a href="http://www.hyojinlogis.com/?page_id=3302" target="_blank"> 터미널 정보 </a>&nbsp;
 <a href="http://www.eunsan.co.kr/business/sea/cfs" target="_blank"> 반입지 CODE </a>&nbsp;
@@ -85,8 +100,10 @@ background-color: #0085e7
 <a href="http://www.hyojinlogis.com/?page_id=3075/" target="_blank"> 컨테이너 규격표 </a>&nbsp;
 <a href="https://www.chainportal.co.kr/portinfo/nexacro/index.html?screenid=screen_info" target="_blank"> (IIS)통합정보조회 서비스 - 체인포털 </a>&nbsp;
 <a href="https://calendar.online/calendar-weeks/2025/48" target="right"> 달력 몇주차 검색 </a>&nbsp;
+<a href="https://onlinealarmkur.com/date/ko/#subtract-date" target="right"> 날짜 계산기 </a>&nbsp;
 <a href="https://www.oocl.com/KOREA/eng/localinformation/ddfreetime/Pages/default.aspx" target="_blank"> OOCL/DEM/DET </a>&nbsp;
 <a href="https://vivoldi.com/tools/html-color-picker" target="_blank"> HTML 색상 코드 검색 </a>&nbsp;
+<a href="https://github.com/" target="_blank"> GITHUB </a>&nbsp;
 
 <BR><BR>
 [구글 시트]<BR>
@@ -109,9 +126,7 @@ background-color: #0085e7
 <BR><BR>
 [선사 스케쥴 조회]<BR>
 <a href="https://www.cma-cgm.com/ebusiness/schedules" target="_blank"> CMA </a>&nbsp;
-<a href="http://www.bts24.co.kr/uat/uia/plism3Sub.do?menu_no=233" target="_blank"> 모선별 서류마감일 조회(프리즘) </a>&nbsp;
 <a href="https://info.bnctkorea.com/esvc" target="_blank"> BNCT(부산신항) </a>&nbsp;
-
 <a href="https://www.e.zim.com/login" target="_blank"> ZIM </a>&nbsp;
 <a href="https://www.oocl.com/eng/ourservices/eservices/sailingschedule/Pages/default.aspx" target="_blank"> OOCL </a>&nbsp;
 <a href="https://www.yml.co.kr/intro" target="_blank"> YML </a>&nbsp;
@@ -136,7 +151,7 @@ background-color: #0085e7
 <a href="http://192.168.100.19/cargo_check/login.php" target="_blank"> 견적서 작성시 로그인 페이지 </a>&nbsp;
 <a href="http://192.168.100.19/quatation/register_in.php" target="_blank"> 견적서 작성 페이지 </a>&nbsp;
 <a href="help.php" target="right"> 견적시 참고 페이지 </a>&nbsp;
-<a href="https://onlinealarmkur.com/date/ko/#subtract-date" target="right"> 날짜 계산기 </a>&nbsp;
+
 
 
 <br><br>
@@ -150,8 +165,6 @@ background-color: #0085e7
 <a href="https://translate.google.co.kr/?hl=ko&sl=en&tl=ko&op=translate" target="_blank"> 구글번역 </a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank"> 구글시트 메인 </a>&nbsp;
 <a href="https://chatgpt.com/" target="_blank"> ChatGPT </a>&nbsp;
-
-<a href="https://hts.usitc.gov/search?query=4008.21" target="_blank"> 미국 HSCODE 조회 </a>&nbsp;
 <a href="https://www.forwarder.kr/curr/truck_info.php" target="right"> 화물차량 제원조회 </a>&nbsp;
 <a href="https://www.logishop.co.kr/ps_s" target="_blank"> 컨테이너 파렛 적재수량 계산기 </a>&nbsp;
 <a href="https://www.bestro-logix.co.kr/inc/side_menu_cbm_popup.html" target="_blank"> CBM CALCULATOR </a>&nbsp;
@@ -191,5 +204,6 @@ background-color: #0085e7
 251216 / 정보 조회 탭 위로 올림
 251222 / 하나은행 고시환율 추가
 260107 / 프레임 분리
+260109 / 링크 수정, 추가
 
 -->
