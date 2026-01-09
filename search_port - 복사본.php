@@ -1,0 +1,399 @@
+<html>
+
+<style>
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid gray;
+	padding: 0px;
+	background-color: green;
+  }
+
+  div#title {font-size:15pt; font-weight:bold;}
+  div#title img {width:1em; height:1em;;}
+  html { font-size: 100.0%; 
+		background-color: gray;
+  }
+</style>
+
+
+
+<body>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=10.0, user-scalable=yes">
+
+<?php 
+//			echo '<span style="color:blue;">'.$result2[1].'</span>'; 글자 색깔 넣기
+    require_once("../ckx_db/db_info.php");
+	$s = mysql_connect($SERV, $USER, $PASS) or die("실패입니다.");
+    mysql_select_db($DBNM);
+
+	function lineNameSearch($line_number)
+	{
+		$call = mysql_query("SELECT * FROM line WHERE uid = $line_number");
+		while ($result = mysql_fetch_array($call)) 
+		{
+			$lineName = $result[1];
+		}
+		return $lineName;
+	}
+
+    $pod = $_POST["c1"];
+	$via = $_POST["c2"];
+	//if($pod == null)
+	if(empty($pod))
+	{
+		print "<br>POD 를 입력하세요.</a>";
+		print "<br>";
+		print "<br><a href='1.php'>메인 화면으로</a>";
+		return;
+	}
+	
+	$partner = 200;
+	$line_number = 0;
+	
+//	echo '<table border="1">';
+	?> <table> <?
+
+	echo '<td>VIA</td>';
+	echo '<td>DEL</td>';
+	echo '<td>LINE</td>';
+	echo '<td>20`DV</td>';
+	echo '<td>40`DV</td>';
+	echo '<td>40`HC</td>';
+	echo '<td>VALIDITY</td>';
+
+
+	/*
+>>>>>>> a7158cdf5526b8b7750ce72324081eebad20dbca
+    $re = mysql_query("SELECT * FROM pod WHERE pod LIKE '%$pod%' and via LIKE '%$via%'");
+    while ($result = mysql_fetch_array($re)) {
+        
+		//echo '<table border="1">';
+		
+		if($result[9] == 0) // 20dv ocf
+		{
+			continue;
+		}
+
+		$pod =$result[1];
+
+		echo "<tr>";
+		
+		//echo "</tr>";
+
+	//	print " POD = ";	 
+	//	print $result[1];
+        
+		$nn = "";
+		$color = "white";
+		$color2 = "yellow";
+		$via2 = $result[3];
+		//if($result[3] != $nn)
+		if(!empty($result[3]))
+		{
+			//echo "<tr>";
+			//echo'<td>VIA = <span style="color:blue;">'.$via2.'</span></td>';
+			echo'<td>'.'<div style="color:'.$color.';font-size:13px">'.$via2.'</div>'.'</td>';
+			//echo "</tr>";
+//			print " (VIA = ";
+			//print $result[3];
+//			echo '<span style="color:blue;">'.$result[3].'</span>';
+			//print "<br>";
+//			print ")";
+		}
+		else
+		{
+			echo'<td></td>';
+		}
+
+		echo '<td>'.'<div style="color:'.$color.';font-size:13px">'.$pod.'</div>'.'</td>';
+//		print "<br>";
+		
+		$line_number = $result[7];		
+		$re2 = mysql_query("SELECT * FROM line WHERE uid = $line_number");
+		while ($result2 = mysql_fetch_array($re2)) 
+		{
+			$line2 = $result2[1];
+			//echo "<tr>";
+			echo '<td>'.'<div style="color:'.$color2.';font-size:13px">'.$line2.'</div></td>';
+			//echo "</tr>";
+//			print "LINE : ";
+//			echo '<span style="color:blue;">'.$result2[1].'</span>';
+			//print "<br>";
+		}
+	
+		// key 값 정하기
+		$nn = "";
+		$key = "";
+		$schedule = 0;
+		if(empty($via2)) // VIA == NULL
+		{
+			$key = $pod;
+		}
+		else
+		{
+			$key = $via2;
+		}
+		
+		//echo "key".$key."<br>";
+	
+		$schedule = 0;
+		
+		//echo "<tr>";
+		//echo'<td><a href="schedule.php?pod='.$pod.'&via='.$via2.'&line_number='.$line_number.'" target="_blank"> ( 스케쥴 보기 )</a></td>';
+		//echo "</tr>";
+
+
+		$v20_1 = $result[9];
+		$v20_2 = number_format($v20_1);
+		$v20_3 = $v20_1 + $partner;
+		$v20_4 = number_format($v20_3);
+		//echo '<tr>';
+		echo '<td>'.'<div style="color:'.$color.';font-size:13px">'.$v20_2.'</div>'.'</td>';
+		//echo '</tr>';
+
+		$v40_1 = $result[10];
+		$v40_2 = number_format($v40_1);
+		$v40_3 = $v40_1 + $partner;
+		$v40_4 = number_format($v40_3);
+		//echo '<tr>';
+		echo '<td>'.'<div style="color:'.$color.';font-size:13px">'.$v40_2.'</div>'.'</td>';
+		//echo '</tr>';
+
+		$v40h_1 = $result[11];
+		$v40h_2 = number_format($v40h_1);
+		$v40h_3 = $v40h_1 + $partner;
+		$v40h_4 = number_format($v40h_3);
+		//echo '<tr>';
+		echo '<td>'.'<div style="color:'.$color.';font-size:13px">'.$v40h_2.'</div>'.'</td>';
+		//echo '</tr>';
+
+		//echo '<tr>';
+		echo '<td>'.'<div style="color:'.$color.';font-size:13px">'.$result[12].'</div>'.'</td>';
+		//echo '</tr>';
+
+		
+
+		//echo "<tr>";
+		//echo '<td> &nbsp</td>';
+		echo "</tr>";
+		print "<br>";
+
+
+
+    }
+*/
+	
+	// 수출 운임 "SELECT * FROM pod WHERE pod LIKE '%$pod%' and via LIKE '%$via%'"
+	// "SELECT * FROM pod WHERE pod LIKE '%$pod%' and via LIKE '%$via%' order by line"
+	/*
+			$call3 = mysql_query("SELECT * FROM pod WHERE pod LIKE '%$pod%' and via LIKE '%$via%' order by line");
+			while ($result3 = mysql_fetch_array($call3)) 
+			{
+				$line = $result3[line];
+				$lineName = lineNameSearch($line);
+				//$p = " [ ".$result3[uid]." ] "."  [ ".$city." ] ".$lineName." / ".$result3[dv20]." / ".$result3[dv40]." / ".$result3[hc40]." / ".$result3[12]." / ". $result3[memo];
+				//print $p;
+				//print "<br>";
+
+				$in_out = number_format($result3[in_out]);
+				//print $in_out;
+				//print "<br>";
+				if($in_out == 1) // 1 = out
+				{
+					$in_out = "OUT";
+
+					if($result3[coc_soc] == "SOC")
+					{
+						$color_cocsoc = "RED";
+					}
+					else
+					{
+						$color_cocsoc = "WHITE";
+					}
+
+					echo "<tr>"; // font-size:7;
+					echo '<td width="30"> '.'<div style="color:white;font-size:11px">'.$result3[uid].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:WHITE;font-size:11px">'.$in_out.'</div>'.' </td>'.
+					'<td width="150"> '.'<div style="color:white;font-size:11px">'.$city.'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:white;font-size:11px">'.$lineName.'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[dv20].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[dv40].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[hc40].'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:white;font-size:11px">'.$result3[12].'</div>'.' </td>'.
+					'<td width="40"> '.'<div style="color:'.$color_cocsoc.';font-size:11px">'.$result3[coc_soc].'</div>'.' </td>'.
+					'<td width="800"> '.'<div style="color:white;font-size:11px">'.$result3[memo].'</div>'.' </td>';
+					echo "</tr>";
+				}
+			}
+			
+			$call4 = mysql_query("SELECT * FROM pod WHERE pol LIKE '%$pod%' and via LIKE '%$via%' order by line");
+			while ($result4 = mysql_fetch_array($call4)) 
+			{
+				$line = $result4[line];
+				$lineName = lineNameSearch($line);
+				//$p = " [ ".$result3[uid]." ] "."  [ ".$city." ] ".$lineName." / ".$result3[dv20]." / ".$result3[dv40]." / ".$result3[hc40]." / ".$result3[12]." / ". $result3[memo];
+				//print $p;
+				//print "<br>";
+
+				$in_out = number_format($result4[in_out]);
+				//print $in_out;
+				//print "<br>";
+				if($in_out == 1) // 1 = out
+				{
+				}
+				else
+				{
+					$in_out = "IN";
+
+					if($result4[coc_soc] == "SOC")
+					{
+						$color_cocsoc = "RED";
+					}
+					else
+					{
+						$color_cocsoc = "BLACK";
+					}
+
+					echo "<tr>"; // font-size:7;
+					echo '<td width="30"> '.'<div style="color:BLACK;font-size:11px">'.$result4[uid].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:BLACK;font-size:11px">'.$in_out.'</div>'.' </td>'.
+					'<td width="150"> '.'<div style="color:BLACK;font-size:11px">'.$city.'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:BLACK;font-size:11px">'.$lineName.'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:BLACK;font-size:11px">'.$result4[dv20].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:BLACK;font-size:11px">'.$result4[dv40].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:BLACK;font-size:11px">'.$result4[hc40].'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:BLACK;font-size:11px">'.$result4[12].'</div>'.' </td>'.
+					'<td width="40"> '.'<div style="color:'.$color_cocsoc.';font-size:11px">'.$result4[coc_soc].'</div>'.' </td>'.
+					'<td width="800"> '.'<div style="color:BLACK;font-size:11px">'.$result4[memo].'</div>'.' </td>';
+					echo "</tr>";
+				}
+/*
+				echo "<tr>"; // font-size:7;
+				echo '<td width="30"> '.'<div style="color:white;font-size:11px">'.$result3[uid].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:YELLOW;font-size:11px">'.$in_out.'</div>'.' </td>'.
+					'<td width="150"> '.'<div style="color:white;font-size:11px">'.$city.'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:white;font-size:11px">'.$lineName.'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[dv20].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[dv40].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[hc40].'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:white;font-size:11px">'.$result3[12].'</div>'.' </td>'.
+					'<td width="800"> '.'<div style="color:white;font-size:11px">'.$result3[memo].'</div>'.' </td>';
+				echo "</tr>";
+				*/
+			//}
+	
+	// 수출 운임
+	// "SELECT * FROM pod WHERE pod LIKE '%$pod%' and via LIKE '%$via%'"
+			//$call3 = mysql_query("SELECT * FROM pod WHERE pod LIKE '%$city%' order by line");
+			$call3 = mysql_query("SELECT * FROM pod WHERE pod LIKE '%$pod%' and via LIKE '%$via%' order by line");
+			while ($result3 = mysql_fetch_array($call3)) 
+			{
+				$line = $result3[line];
+				$lineName = lineNameSearch($line);
+				//$p = " [ ".$result3[uid]." ] "."  [ ".$city." ] ".$lineName." / ".$result3[dv20]." / ".$result3[dv40]." / ".$result3[hc40]." / ".$result3[12]." / ". $result3[memo];
+				//print $p;
+				//print "<br>";
+
+				$in_out = number_format($result3[in_out]);
+				//print $in_out;
+				//print "<br>";
+				if($in_out == 1) // 1 = out
+				{
+					$in_out = "OUT";
+
+					if($result3[coc_soc] == "SOC")
+					{
+						$color_cocsoc = "RED";
+					}
+					else
+					{
+						$color_cocsoc = "WHITE";
+					}
+
+					echo "<tr>"; // font-size:7;
+					echo '<td width="30"> '.'<div style="color:white;font-size:11px">'.$result3[uid].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:WHITE;font-size:11px">'.$in_out.'</div>'.' </td>'.
+					'<td width="150"> '.'<div style="color:white;font-size:11px">'.$city.'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:white;font-size:11px">'.$lineName.'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[dv20].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[dv40].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[hc40].'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:white;font-size:11px">'.$result3[12].'</div>'.' </td>'.
+					'<td width="40"> '.'<div style="color:'.$color_cocsoc.';font-size:11px">'.$result3[coc_soc].'</div>'.' </td>'.
+					'<td width="800"> '.'<div style="color:white;font-size:11px">'.$result3[memo].'</div>'.' </td>';
+					echo "</tr>";
+				}
+			}
+			
+			//$call4 = mysql_query("SELECT * FROM pod WHERE pol LIKE '%$city%' order by line");
+			$call4 = mysql_query("SELECT * FROM pod WHERE pod LIKE '%$pod%' and via LIKE '%$via%' order by line");
+			while ($result4 = mysql_fetch_array($call4)) 
+			{
+				$line = $result4[line];
+				$lineName = lineNameSearch($line);
+				//$p = " [ ".$result3[uid]." ] "."  [ ".$city." ] ".$lineName." / ".$result3[dv20]." / ".$result3[dv40]." / ".$result3[hc40]." / ".$result3[12]." / ". $result3[memo];
+				//print $p;
+				//print "<br>";
+
+				$in_out = number_format($result4[in_out]);
+				//print $in_out;
+				//print "<br>";
+				if($in_out == 1) // 1 = out
+				{
+				}
+				else
+				{
+					$in_out = "IN";
+
+					if($result4[coc_soc] == "SOC")
+					{
+						$color_cocsoc = "RED";
+					}
+					else
+					{
+						$color_cocsoc = "BLACK";
+					}
+
+					echo "<tr>"; // font-size:7;
+					echo '<td width="30"> '.'<div style="color:BLACK;font-size:11px">'.$result4[uid].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:BLACK;font-size:11px">'.$in_out.'</div>'.' </td>'.
+					'<td width="150"> '.'<div style="color:BLACK;font-size:11px">'.$city.'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:BLACK;font-size:11px">'.$lineName.'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:BLACK;font-size:11px">'.$result4[dv20].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:BLACK;font-size:11px">'.$result4[dv40].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:BLACK;font-size:11px">'.$result4[hc40].'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:BLACK;font-size:11px">'.$result4[12].'</div>'.' </td>'.
+					'<td width="40"> '.'<div style="color:'.$color_cocsoc.';font-size:11px">'.$result4[coc_soc].'</div>'.' </td>'.
+					'<td width="800"> '.'<div style="color:BLACK;font-size:11px">'.$result4[memo].'</div>'.' </td>';
+					echo "</tr>";
+				}
+/*
+				echo "<tr>"; // font-size:7;
+				echo '<td width="30"> '.'<div style="color:white;font-size:11px">'.$result3[uid].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:YELLOW;font-size:11px">'.$in_out.'</div>'.' </td>'.
+					'<td width="150"> '.'<div style="color:white;font-size:11px">'.$city.'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:white;font-size:11px">'.$lineName.'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[dv20].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[dv40].'</div>'.' </td>'.
+					'<td width="50"> '.'<div style="color:white;font-size:11px">'.$result3[hc40].'</div>'.' </td>'.
+					'<td width="100"> '.'<div style="color:white;font-size:11px">'.$result3[12].'</div>'.' </td>'.
+					'<td width="800"> '.'<div style="color:white;font-size:11px">'.$result3[memo].'</div>'.' </td>';
+				echo "</tr>";
+				*/
+			}
+
+	echo '</table>';
+    mysql_close($s);
+    //print "<br><a href='1.php'>메인 화면으로</a>";
+	
+ ?>
+<br>
+<a href='1.php'>처음 화면으로</a>
+
+</body>
+</html>

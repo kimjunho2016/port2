@@ -1,0 +1,43 @@
+<?
+	session_start();
+	$id = $_SESSION["id"];
+	echo "id = ".$id;
+	print "<br>";
+	?>
+
+<html style="font-size: 13px;">
+<head>
+	<title>관리 페이지</title> </head>
+
+<style>
+  
+	a {
+  	  text-decoration: none;
+  }
+	a:link, a:visited {
+     background-color: #54539e;
+     color: #f9f9f9;
+     padding: 5px 5px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+ }
+ 
+	a:hover, a:active {
+     background-color: #0085e7;
+}
+
+
+</style>
+
+
+<body>
+
+
+
+
+
+</body>
+</html>
+
+

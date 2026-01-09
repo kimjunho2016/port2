@@ -1,0 +1,43 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0,
+maximum-scale=1.0, minimum-scalw=1.0, user-scalable=no" \>
+
+<form method="post" action="new_insert.php">
+    POD <input type="text" name="a1">(필수 입력)<br>
+    POD CODE <input type="text" name="a2"><br>
+	VIA <input type="text" name="a3"><br>
+	VIA CODE<input type="text" name="a4"><br>
+	NATION<input type="text" name="a5"><br> 
+	NATION CODE<input type="text" name="a6"><br>
+	LINE<input type="text" name="a7"><br>
+	LINE CODE<input type="text" name="a8"><br>
+	DV20 <input type="text" name="a9">1이상 입력해야 조회됨<br>
+	DV40 <input type="text" name="a10"><br>
+	HC40 <input type="text" name="a11"><br>
+	DATE <input type="text" name="a12"><br>
+	메모 <input type="text" name="a13"><br>
+	<?php 
+    require_once("../ckx_db/db_info.php");
+	$s = mysql_connect($SERV, $USER, $PASS) or die("실패입니다.");
+    mysql_select_db($DBNM);
+
+    $c1_d = $_POST["c1"];
+    $re = mysql_query("SELECT * FROM line");
+	$total = mysql_num_rows($re);
+	$count = 0;
+    while ($result = mysql_fetch_array($re)) {
+        ?>
+		<input type="checkbox" name="line[]" value="<? print $result[0] ?>" > <? print $result[1] ?> 
+		<?
+			$count = $count + 1;
+			if($count == 3)
+		    {
+				$count = 0;
+				echo "<br>";
+			}
+    }
+    mysql_close($s);
+    print "<br><a href='2e.php'>메인 화면으로</a>";
+	?>
+	
+	<input type="submit" value="확인">
+</form>
