@@ -49,6 +49,7 @@ background-color: #0085e7
 <!--<a href="../ckx_code/1.php" target="_blank"> CKX-CODE 발급 </a>&nbsp;-->
 <a href="../ckx_code/1.php" target="right"> CKX-CODE 발급 </a>&nbsp;<br>
 <a href="https://www.tradlinx.com/ko/container-terminal-schedule" target="right"> 컨테이너 터미널 스케쥴 </a>&nbsp;<br>
+<a href="xml/company.php" target="right"> 거래업체 정보 </a>&nbsp;<BR>
 <a href="http://192.168.100.19/bbs/zboard.php?id=work_data" target="_blank"> 업무 자료 저장소 </a>&nbsp;<BR>
 <!-- <a href="http://192.168.100.19/port2/1.php" target="_blank"> 선사별 운항 PORT 검색 </a>&nbsp; -->
 <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%99%98%EC%9C%A8%EA%B3%84%EC%82%B0" target="_blank"> 환율(네이버) </a>&nbsp;<BR>
