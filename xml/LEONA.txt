@@ -1,0 +1,45 @@
+** 기본정보
+회사명 : LEONA SEA & AIR CO., LTD.
+사업자 : 
+주소 : 부산광역시 해운대구 센텀중앙로 97 (재송동) 센텀스카이비즈 A동 1611호 (우편번호:48058)
+
+** 담당자  
+(영업팀)
+김래영 대표 / 051-717-2526 / leona@leonakorea.com / busan@leonakorea.com
+전인숙 부장 / 051-717-2527 / insoog@leonakorea.com / 010-8761-1872
+최민경 부장 / 051-717-2564 / mkchoi@leonakorea.com
+백선주 과장 / 051-717-0453 / rachel@leonakorea.com
+이은주 과장 / 051-717-2564 / ej@leonakorea.com
+(업무팀)
+이정은 과장(항공) / 051-717-2594 / ailly@leonakorea.com
+박소정 대리(해상수출) / 051-717-2596 / olivia@leonakorea.com
+한지원 대리(해상수출) / 051-717-0365 / gemma@leonakorea.com
+박채은 대리(해상수입) / 051-717-2654 / chaen@leonakorea.com
+김민지 주임(해상수출) / 051-717-0368 / mandy@leonakorea.com
+장지은 차장(해상수입) / 051-717-0392 / jasmine@leonakorea.com
+강효원 사원(해상수출) / 051-717-2541 / claire@leonakorea.com
+김현지 사원(항공) / 051-717-0397 / kyla@leonakorea.com
+(관리팀)
+손효준 이사 / 051-717-2536 / koi@leonakorea.com
+유정아 대리 / 051-717-2572 / account@leonakorea.com
+임은혜 사원 / 051-717-0378 / ann@leonakorea.com
+(항공팀)
+김해진 부장 / 051-717-3219 / hj_kim@leonakorea.com; air@leonakorea.com; insoog@leonakorea.com
+
+LINE : OOCL, ZIM
+POL : BUSAN
+POD : USNYC
+ITEM : SPS SOLID CORE PANEL POLYURETHANE STEEL / PANEL STEEL - POLYURETHANE-STEEL
+HSCODE : 7308.90.9000
+VOL : 40'OT(IN)
+G/W : 10 TON
+
+LINE : HMM, YML 제외..
+POL : BUSAN
+POD : USSAV
+ITEM : 57 GSM PE WOVEN HOUSEWRAP
+HSCODE : 5903.90
+VOL : 40'HC
+G/W : 18.8 TON
+
+

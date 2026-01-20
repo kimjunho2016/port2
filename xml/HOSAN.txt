@@ -1,0 +1,49 @@
+** 기본정보
+회사명 : 호산무역 / HOSAN CORPORATION
+사업자 : 
+주소 : 804, 29 CHORYANGJUNG-RO, DONG-GU,BUSAN, KOREA.
+
+** 담당자  
+김서영 과장 / 
+
+
+LINE : MSC
+POL : BUSAN
+POD : GDANSK, POLAND
+ITEM : "ROCKET" BRAND AUTOMOTIVE BATTERIES 
+HSCODE : 8507.10
+VOL : 20'DG
+G/W : 21.5 TON
+CLASS 8 / UN 2794
+
+** CNEE
+LLC "NOVA FORMULA"
+VISHNEVA STR 36, ROOM 1
+08134 VYSHNEVE
+UKRAINE
+
+** NOTIFY
+TANIT GROUP LLC
+68000, ODESA REGION, CHORNOMORSK,
+KORABELNA STREET, 3/32N
+TEL +38 048 780 2418
+EORI: LVUA41983980
+https://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en
+
+
+LINE : GNLST
+POL : BUSAN
+POD : RUVVO / COMMERCIAL
+ITEM : "CASTROL" BRAND ENGINE OIL(NON DG)
+HSCODE : 2710.19-7120
+VOL : 20'DV
+G/W : 11.2 TON
+
+** GNSLT
+Jun Ho Kim (J.H. KIM) / Manager
+GNL ST Co., Ltd. (Global New Leader ST Co., Ltd.)
+101-618, Lotte Castle Lewestworks,
+111 Magokjungang-ro, Gangseo-gu, Seoul, Korea
+📱 Mobile: +82-10-4548-0291
+☎️ Direct: 070-7730-1152
+📠 Fax: +82-2-735-6516

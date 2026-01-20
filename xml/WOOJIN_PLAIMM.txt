@@ -1,0 +1,28 @@
+** 기본정보
+회사명 : (주)우진플라임
+사업자 : 
+주소 : 충북 보은군 장안면 불목리 우진플라임로 100 (28913)
+
+** 담당자  
+이찬호 팀장 / lih@wjpim.com / 010-2901-0980 / 043-540-9510
+김지혜 대리 / jihye.kim@wjpim.com / 010-3457-1798 / 043-540-9605
+전미진 대리 / mijin.jeon@wjpim.com / 010-2635-4211 / 043-540-9511
+(다큐팀) 김동후 과장 / tpdh1004@wjpim.com
+(다큐팀) 송지라 담당 / jira.song@wjpim.com
+
+POL : BUSAN
+POD : 
+ITEM : 사출 성형기계 / injection molding machine / 고무나 플라스틱을 가공하거나 이들 재료로 제품을 제조하는 기계의 부분품 입니다.  
+HSCODE : 8477.90-0000 / 8477.10-2000
+VOL : 
+G/W : 10~15 TON
+
+** 보험요율
+POD	요율
+VNHCM	0.01588 %
+VHHPH	?
+THLCH	0.01514 %
+CNSHA	0.01486 %
+PLGDN	0.01588 %　
+USCHI	0.01588 %
+MXZLO	0.01588 %

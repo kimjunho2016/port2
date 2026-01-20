@@ -1,0 +1,70 @@
+﻿** 기본정보
+회사명 : 진양에너지유틸리티
+주소 : 경남 김해시 진례면 고모리 1570-1
+ITEM : C-PAD
+HSCODE : 3921
+G/W : 9 TON
+보험요율 EU : 0.02314%
+보험요율 USA : 0.02218%
+
+** 도착지 주소
+BTL 폴란드 창고 : Ul. Wrocławska 7, Bielany Wrocławskie 55-040 Kobierzyce, Poland
+LG 폴란드 : ul. LG 1A, Biskupice Podg?rne, 55-040 Kobierzyce, Poland 
+오하이오 창고 : Eagle Warehouse, 4001 Grantz Rd, Grove City, Ohio 43123
+폴란드 RAIL 도착지 : Malaszewicze, Poland
+
+** 항공 견적 문의 양식	
+INCOTERMS : DAP	
+POL : ICN	
+FINAL DEST : ul. LG 1A, Biskupice Podg?rne, 55-040 Kobierzyce, Poland	
+ITEM : C-PAD	
+HSCODE : 3921	
+VOL : 4 PLT	
+SIZE : 110 * 110 * 95 (LWH)(CM) / PLT	
+G/W : 967 KGS	
+REMARK : 도착공항은 폴란드 이외의 오스트리아 등 타국가도 가능합니다.	
+
+**서중물류 / RAIL / TCR
+				
+폴란드향 철송 운임 문의 / TCR / VIA QINGDAO,CHINA				
+신동민 이사 / 02-2096-4728 / eldsnow@sjl.co.kr				
+여승일 과장 / 02-2086-4773 / slyeo@sjl.co.kr				
+				
+김상현 대리 / 02-2096-4749 / 010-5603-2725   / shkim@sjl.co.kr; eurasia_sales@sjl.co.kr				
+				
+https://sjl.co.kr/kr/				
+
+** 국내 운송료 
+~ 작업지 : 경남 김해시 진례면 고모리 1570-1
+부산북항(46KM) : 안전운임 \249200/\287100, TYX \223000/\258000
+부산신항(30KM) : 안전운임 \204300/\229600 
+~ 양산공장 주소 : 양산시?유산공단7길 42
+부산북항(45KM) : 안전운임 \246200/\283300
+부산신항(54KM) : 안전운임 \277500/\313200 
+
+** BTL 창고요율 
+입고/출고 EUR 1.7/1회, 
+보관 EUR 0.45/DAY
+
+** DAP CHARGE ( LXPANTOS 요율 )
+1) GDANSK
+PORT CHARGE : EUR 200/CNTR
+DOCS : EUR 60/BL
+Customs Clearance(T1) : EUR 50/SHPT
+Transport (Truck) : EUR 900 / CNTR
+TOTAL : EUR 1210/CNTR
+
+2) Hamburg
+PORT CHARGE : EUR 430/CNTR
+DOCS : EUR 40/BL
+Customs Clearance(T1) : EUR 100/SHPT
+Transport (Truck) : EUR 1350 / CNTR
+TOTAL : EUR 1920/CNTR
+
+3) Koper
+PORT CHARGE : EUR 230/CNTR
+DOCS : EUR 60/BL
+Customs Clearance(T1) : EUR 100/SHPT
+Transport (Truck) : EUR 2250 / CNTR
+TOTAL : EUR 2640/CNTR
+
