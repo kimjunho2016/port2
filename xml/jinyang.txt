@@ -7,11 +7,31 @@ G/W : 9 TON
 보험요율 EU : 0.02314%
 보험요율 USA : 0.02218%
 
+
 ** 도착지 주소
 BTL 폴란드 창고 : Ul. Wrocławska 7, Bielany Wrocławskie 55-040 Kobierzyce, Poland
 LG 폴란드 : ul. LG 1A, Biskupice Podg?rne, 55-040 Kobierzyce, Poland 
 오하이오 창고 : Eagle Warehouse, 4001 Grantz Rd, Grove City, Ohio 43123
 폴란드 RAIL 도착지 : Malaszewicze, Poland
+미시간 창고 : 2280 Turner Ave NW Grand Rapids, MI 49544, USA
+
+
+** LCL 견적 문의 양식
+문의 주셔서 감사합니다.
+
+아래 내용 확인해 주시면, 견적 확인에 도움이 될거 같습니다.
+
+BY : LCL / SEA
+INCOTERMS : CIF? OR DAP?
+POL : BUSAN
+POD : CHICAGO,IL, USA
+DAP 조건일 경우, 최종 도착지 주소 : 
+ITEM : C-PAD
+HSCODE : 3921
+VOL : 1100 * 1100 *420 (LWH)(MM) / (1Pallet)
+G/W : 100kg
+출고예정일 : (스케쥴 확인용)
+
 
 ** 항공 견적 문의 양식	
 INCOTERMS : DAP	
@@ -23,6 +43,7 @@ VOL : 4 PLT
 SIZE : 110 * 110 * 95 (LWH)(CM) / PLT	
 G/W : 967 KGS	
 REMARK : 도착공항은 폴란드 이외의 오스트리아 등 타국가도 가능합니다.	
+
 
 **서중물류 / RAIL / TCR
 				
@@ -42,9 +63,11 @@ https://sjl.co.kr/kr/
 부산북항(45KM) : 안전운임 \246200/\283300
 부산신항(54KM) : 안전운임 \277500/\313200 
 
-** BTL 창고요율 
+
+** 폴란드 / BTL 창고요율 
 입고/출고 EUR 1.7/1회, 
 보관 EUR 0.45/DAY
+
 
 ** DAP CHARGE ( LXPANTOS 요율 )
 1) GDANSK

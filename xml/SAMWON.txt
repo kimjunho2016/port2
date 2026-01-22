@@ -1,0 +1,69 @@
+** 기본정보
+회사명 : 삼원
+사업자 : 
+주소 : 
+(1) 경북 경주시 외동읍 구어2산단로4길 36
+(2) 경북 경주시 외동읍 내외로 620-22
+
+** 담당자  
+이혁기 부장 / 010-8006-7852 / leehk@samwongroup.co.kr
+이구민 과장 / 010-2090-3552 / leegm@samwongroup.co.kr
+
+
+POL : BUSAN
+POD : USMOV
+DEL : 623 Industrail park Blvd, Montgomery, AL 36117, USA
+ITEM : AUTO PARTS
+HSCODE : 5603.14 / 8708.29
+VOL : 40'
+G/W :  TON
+POD - DEL : 290 ~ 337 KM
+TKC : B. $1100 / S. $1200
+
+
+POL : BUSAN
+POD : USSAV
+DEL : 450 Four Lks Pkwy, Bloomingdale, GA 31302, USA
+ITEM : AUTO PARTS
+HSCODE : 5603.14 / 8708.29
+VOL : 40'
+G/W :  TON
+POD - DEL : 43 KM
+TKC : B. $600 / S. $700
+
+
+** 도착지 주소	
+Montgomery : 623 Industrail park Blvd, Montgomery, AL 36117
+Savannah : 	450 Four Lks Pkwy, Bloomingdale, GA 31302
+Slovakia : Ul. Majora Antona Matuska 511, Dolny Hricov, Slovenska Republika
+
+** CODE 등록용 정보
+Company Name*	: SAMWON CO., LTD
+Street name and number* : 36 GUEO2SANDAN-RO 4-GIL, OEDONG-EUP, GYEONGJU-SI, GYEONGSANGBUK-DO, 38205, KOREA
+Postal Code* : 38205
+Country Name* :	KOREA
+VAT number* : 505-81-31496
+Contact full name* : LEE HYUK KI
+Contact E-mail address* : leehk@samwongroup.co.kr
+Contact phone number* : 010-8006-7852
+
+
+** HSCODE
+[이구민] [오후 3:43] 제일 많이 사용되는 HS CODE
+
+1. 8708.29 ( USA ) ( EUROPE )
+2. 5603.14 ( USA )
+3. 4008.11
+4. 4016.10
+5. 3919.90
+
+6~8번 부터는 거의 비슷비슷 합니다 
+6. 3921.19
+7. 5602.10
+8. 6307.90
+[이구민] [오후 3:43] 미국의 경우 2번이 압도적으로 많구요
+그다음이 1번 입니다
+
+유럽의 경우 1번이 압도적으로 많구요
+그다음이 2번 입니다.
+

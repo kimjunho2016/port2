@@ -40,6 +40,7 @@
 <a href="WOOJIN_PLAIMM.txt" target="_self"> 우진플라임 </a>&nbsp;<BR>
 <a href="SCANTEK.txt" target="_self"> 스칸텍 </a>&nbsp;<BR>
 <a href="HOSAN.txt" target="_self"> 호산무역 </a>&nbsp;<BR>
+<a href="SAMWON.txt" target="_self"> 삼원 </a>&nbsp;<BR>
 
 
 <BR>
@@ -48,5 +49,6 @@
 <a href="GTS.txt" target="_self"> GTS </a>&nbsp;<BR>
 <a href="LEONA.txt" target="_self"> LEONA </a>&nbsp;<BR>
 <a href="GILTON.txt" target="_self"> 길튼해운항공 </a>&nbsp;<BR>
+<a href="J2K.txt" target="_self"> (주)제이투케이글로벌 </a>&nbsp;<BR>
 
 </body>
