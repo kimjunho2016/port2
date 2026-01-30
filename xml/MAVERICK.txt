@@ -1,0 +1,21 @@
+
+
+BUSAN - QAHMD
+ITEM : 건설용 물탱크 일반 자재  
+HSCODE : 3925.10
+VOL : 40'
+G/W : ? TON
+
+LINE : MSC
+BUSAN – HAMAD, QATAR : $1,050/40’HC
+SUBJECT : 
+WAR RISK ($80/CNTR)
+LOCAL CHARGE (SEAL \10000, DOCUMENT \55000, WFG \9532, THC \205000)
+VALID ~ 02/28 (GATE-IN DATE)
+REMARK : 금일자 기준 조회 운임입니다. 추후 변동시 업데이트 드리겠습니다.
+
+** 도착지 프리타임 및 요율
+Container size type	Free days	Period 1	Rate 1	Period 2	Rate 2	Thereafter Rate
+40 Dry	4 Calendar days	5 Calendar days	180.00 QAR /day	3 Calendar days	390.00 QAR /day	900.00 QAR /day
+
+

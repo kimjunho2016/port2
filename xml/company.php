@@ -50,5 +50,6 @@
 <a href="LEONA.txt" target="_self"> LEONA </a>&nbsp;<BR>
 <a href="GILTON.txt" target="_self"> 길튼해운항공 </a>&nbsp;<BR>
 <a href="J2K.txt" target="_self"> (주)제이투케이글로벌 </a>&nbsp;<BR>
+<a href="MAVERICK.txt" target="_self"> 메버릭 </a>&nbsp;<BR>
 
 </body>

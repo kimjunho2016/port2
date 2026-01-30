@@ -102,6 +102,11 @@ background-color: #0085e7
 <a href="https://info.kitl.com/jsp/T05/banchul_allow.jsp" target="_blank"> 허치슨(광양) </a>&nbsp;
 
 <BR><BR>
+[LCL 입고 조회]<BR>
+<a href="https://www.jconsol.co.kr/sub04/sub03.php" target="right"> 제이콘솔창고 입고조회 </a>&nbsp;
+
+
+<BR><BR>
 [정보 조회]<BR>
 <a href="https://unipass.customs.go.kr/csp/index.do" target="right"> 유니패스-화물운송 주선업자 코드 조회-CKXX </a>&nbsp;
 <a href="http://www.hyojinlogis.com/?page_id=3075/" target="_blank"> 컨테이너 규격표 </a>&nbsp;
@@ -195,7 +200,7 @@ background-color: #0085e7
 <a href='1.php'>처음 화면으로</a>
 <a href="logout.php"> 로그아웃 </a>
 <BR><BR>
-관리 페이지 VER : 2026-1-7
+관리 페이지 VER : 2026-1-30
 </body>
 </html>
 
@@ -212,5 +217,6 @@ background-color: #0085e7
 251222 / 하나은행 고시환율 추가
 260107 / 프레임 분리
 260109 / 링크 수정, 추가
+260130 / 제이콘솔 창고 입고조회 추가
 
 -->
