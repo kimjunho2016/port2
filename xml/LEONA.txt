@@ -26,6 +26,7 @@
 (항공팀)
 김해진 부장 / 051-717-3219 / hj_kim@leonakorea.com; air@leonakorea.com; insoog@leonakorea.com
 
+~~~
 LINE : OOCL, ZIM
 POL : BUSAN
 POD : USNYC
@@ -33,7 +34,7 @@ ITEM : SPS SOLID CORE PANEL POLYURETHANE STEEL / PANEL STEEL - POLYURETHANE-STEE
 HSCODE : 7308.90.9000
 VOL : 40'OT(IN)
 G/W : 10 TON
-
+~~~
 LINE : HMM, YML 제외..
 POL : BUSAN
 POD : USSAV
@@ -41,5 +42,17 @@ ITEM : 57 GSM PE WOVEN HOUSEWRAP
 HSCODE : 5903.90
 VOL : 40'HC
 G/W : 18.8 TON
+~~~
+LINE : CMA
+BUSAN - USSAV : $2,550 / 40’HC
+SUBJECT : 
+   Panama Canal Transit Surcharge ($80/40')
+   Container Maintenance Charge ($40/40')
+   ISPS ($14/CNTR)
+   MBL AMS ($32/BL)
+   HBL AMS ($50/BL)
+   LOCAL CHARGE (SEAL, DOCUMENT, WFG, THC)
+VALID : ~ 2/28 (GATE-IN DATE)
+~~~
 
 

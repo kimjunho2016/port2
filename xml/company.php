@@ -41,6 +41,7 @@
 <a href="SCANTEK.txt" target="_self"> 스칸텍 </a>&nbsp;<BR>
 <a href="HOSAN.txt" target="_self"> 호산무역 </a>&nbsp;<BR>
 <a href="SAMWON.txt" target="_self"> 삼원 </a>&nbsp;<BR>
+<a href="SEOWONTECH.txt" target="_self"> 서원테크 </a>&nbsp;<BR>
 
 
 <BR>
