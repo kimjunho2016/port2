@@ -1,19 +1,25 @@
 ﻿** 기본정보
-회사명 : 진양에너지유틸리티
-주소 : 경남 김해시 진례면 고모리 1570-1
+회사명 : 진양에너지유틸리티 (CHINYANG)
+주소 : 경남 김해시 진례면 고모리 1570-1 / 경남 김해시 진례면 테크노밸리로 108 (50875)
 ITEM : C-PAD
 HSCODE : 3921
 G/W : 9 TON
 보험요율 EU : 0.02314%
 보험요율 USA : 0.02218%
 
+** 담당자
+김승빈 과장 / 010-3830-3224 / sbkim@cyeu.co.kr
+
+조정봉 <jbcho@cyeu.co.kr>; 이민규차장님(영업) <minkyu.lee@chinyangauto.com>; 김태형 <thkim@cyeu.co.kr>; 이상훈 <shlee@cyeu.co.kr>; 김동규 <dkkim@cyeu.co.kr>
+
 
 ** 도착지 주소
-BTL 폴란드 창고 : Ul. Wrocławska 7, Bielany Wrocławskie 55-040 Kobierzyce, Poland
-LG 폴란드 : ul. LG 1A, Biskupice Podg?rne, 55-040 Kobierzyce, Poland 
-오하이오 창고 : Eagle Warehouse, 4001 Grantz Rd, Grove City, Ohio 43123
-폴란드 RAIL 도착지 : Malaszewicze, Poland
-미시간 창고 : 2280 Turner Ave NW Grand Rapids, MI 49544, USA
+~ BTL 폴란드 창고 : Ul. Wrocławska 7, Bielany Wrocławskie 55-040 Kobierzyce, Poland
+~ LG 폴란드 : ul. LG 1A, Biskupice Podg?rne, 55-040 Kobierzyce, Poland 
+~ 폴란드 RAIL 도착지 : Malaszewicze, Poland
+
+~ 오하이오 창고 : Eagle Warehouse, 4001 Grantz Rd, Grove City, Ohio 43123
+~ Binex 미시간 창고 : 2280 Turner Ave NW Grand Rapids, MI 49544, USA
 
 
 ** LCL 견적 문의 양식

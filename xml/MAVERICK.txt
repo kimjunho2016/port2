@@ -1,21 +1,46 @@
+** 기본정보
+회사명 : Maverick (MAVERICK)
+사업자 : 
+주소 : 
+
+10-5, Cheonju-ro 480beon-gil, Buk-myeon, Uichang-gu, Changwon-si, 
+Gyeongsangnam-do, Republic of Korea , 51110
+Direct : +82 (70) 4413-0151
+Office : +82 (55) 292-2744
+Mobile : +82 (10) 9306-3657
+Fax : +82 (55) 292-2745
+E-mail : minsik.park@mavericklogistic.com
+Group mail: team@mavericklogistic.com
+Homepage: http://www.mavericklogistic.com
 
 
-BUSAN - QAHMD
-ITEM : 건설용 물탱크 일반 자재  
-HSCODE : 3925.10
-VOL : 40'
-G/W : ? TON
+** 담당자  
+박민식 책임 / 010-9306-3657 / minsik.park@mavericklogistic.com
 
-LINE : MSC
-BUSAN – HAMAD, QATAR : $1,050/40’HC
-SUBJECT : 
-WAR RISK ($80/CNTR)
-LOCAL CHARGE (SEAL \10000, DOCUMENT \55000, WFG \9532, THC \205000)
-VALID ~ 02/28 (GATE-IN DATE)
-REMARK : 금일자 기준 조회 운임입니다. 추후 변동시 업데이트 드리겠습니다.
 
-** 도착지 프리타임 및 요율
-Container size type	Free days	Period 1	Rate 1	Period 2	Rate 2	Thereafter Rate
-40 Dry	4 Calendar days	5 Calendar days	180.00 QAR /day	3 Calendar days	390.00 QAR /day	900.00 QAR /day
-
+~~~
+BUSAN - USNYC
+ITEM : New Crown Frame Replacement bolts
+HSCODE : 8466.94
+VOL : 40'FR
+G/W : 34.4 TON
+~~~
+BUSAN - USCHI, USHOU
+ITEM : STEEL FORGED FITTINGS
+HSCODE : 7307.99
+VOL : 20'DV * 1
+G/W : 5.5 TON
+~~~
+BUSAN - PORT KELANG, MALAYSIA
+ITEM : CRAWLER EXCAVATORS
+HSCODE : 8429.52-1021
+VOL : 40'FR * 2
+G/W : 36.75 TON
+~~~
+BUSAN - BUENAVENTURA, COLOMBIA
+ITEM : CONCRETE PUMP
+HSCODE : 8413.40
+VOL : 40'HC * 1
+G/W : 11.9 TON
+~~~
 

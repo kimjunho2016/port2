@@ -1,5 +1,5 @@
 ** 기본정보
-회사명 : (주)우진플라임
+회사명 : (주)우진플라임 (WOOJINPLAIMM)
 사업자 : 
 주소 : 충북 보은군 장안면 불목리 우진플라임로 100 (28913)
 
@@ -26,3 +26,119 @@ CNSHA	0.01486 %
 PLGDN	0.01588 %　
 USCHI	0.01588 %
 MXZLO	0.01588 %
+
+~~~
+BUSAN - GDANSK
+DEL : Daszyńskiego 64, 43-450 Ustroń, Poland / POD - DEL : 600 KM
+VOL : 40'HC * 7 , 20'DV * 1
+HSCODE : 8477.10-2000
+G/W : 16.6 TON
+* 40'HC
+THC : $275
+DOC : $65
+H/C : $50
+T1 : $80
+TKC : $1200
+TOTAL : $1670(?)
+
+~~~
+BUSAN - GDANSK
+DEL : ul. LG 4 Biskupice Podgorne 55-040 Kobierzyce. Poland / POD - DEL : 500 KM
+* 40'HC
+THC : $275
+DOC : $65
+H/C : $50
+T1 : $80
+TKC : $980
+TOTAL : $1450
+* 20'FR(OW)
+THC : $450
+DOC : $65
+H/C : $100
+T1 : $80
+TKC : $2300
+TOTAL : $2995
+* 20'FR(OWH)
+THC : $450
+DOC : $65
+H/C : $100
+T1 : $80
+TKC : $2300
+TOTAL : $2995
+* 40'FR(OW)
+THC : $450
+DOC : $65
+H/C : $100
+T1 : $80
+TKC : $1950
+TOTAL : $2645
+
+~~
+BUSAN - GDANSK
+DEL : ul. Współpracy 1A Biskupice Podgórne 55-040 Kobierzyce / POD - DEL : 499 KM
+* 20'DV
+THC : $240
+DOC : $50
+H/C : $50
+T1 : $80
+TKC : $860
+TOTAL : $1280
+
+~~~
+BUSAN - GDANSK
+DEL : Gwiaździsta 19, 01-651 Warszawa, Poland / POD - DEL : 331 KM
+* 40'HC
+THC : $240
+DOC : $50
+H/C : $50
+T1 : $80
+TKC : $760
+TOTAL : $1180
+
+~~~
+TCR 철송
+CHINA - Malaszewicze, PL
+DEL : Bielany Wrocławskie 55-040 Kobierzyce, Poland / POD - DEL : 560 ~ 620 KM
+* 40'HC
+H/C : $50
+T1 : $80
+TKC : $1460
+TOTAL : $1590
+
+~~~
+ ※ Import CC (by BTL Poland - in Gdansk port) / (TCR: Malaszewicze)					
+   : USD 80 per Invoice & Container - including 3 HS code					
+   - each of additional HS code: USD 8 per HS code					
+					
+ ※ T1 (FROM Gdansk)					
+ - USD  80: Till 100.000 EUR					
+ - USD 110: Over 100.000 EUR Till 200,000 EUR					
+ - USD 140: Over 200.000 EUR Till 300,000 EUR					
+ - USD 180: Over 300.000 EUR Till 400,000 EUR					
+ - USD 220: Over 400.000 EUR Till 500,000 EUR					
+					
+ ※ Over Weight Cargo Trucking (Additional) - Applied all POD					
+ - Over 21 Ton ~ under 24 Ton					
+ USD 200 / container (20ft, 40ft)					
+ - Over 24 Ton ~ under 25 Ton					
+ USD 450 / container (20ft, 40ft)					
+~~~
+폴란드 해상 수출 후 EU 내에서 통관(수입 통관 또는 T1 Transit 처리) 시 발생하는 비용은 일반적으로 컨테이너당(Per Container/Box) 발생하는 것이 원칙입니다.
+검색 결과에 근거한 상세 내용은 다음과 같습니다.
+1. T1 비용 발생 기준: 컨테이너당 (Per Container) 
+폴란드 현지 포워더 및 선사(CMA CGM, Hapag-Lloyd 등)의 현지 비용 규정에 따르면, T1 Transit Document 발급 및 처리 비용은 "per container", "per box", 또는 "per FEU/TEU" 단위로 청구됩니다.
+예시: 20피트 또는 40피트 컨테이너 1대당 얼마(EUR 100 등)와 같이 부과됩니다. 
+2. 구체적인 비용 구조 (2025년 기준 예시)
+T1 처리 비용: 컨테이너 1대당 약 EUR 50 ~ EUR 100 이상 (운송사 및 세관 보증(Bond) 필요 여부에 따라 상이).
+추가 비용: 컨테이너 내 HS Code(품목 분류)가 여러 개인 경우 추가 수수료(Per additional HS Code)가 붙을 수 있습니다. 
+3. B/L 당 발생하는 경우
+T1과 같은 Transit Document(운송 서류)는 실제 화물이 이동하는 컨테이너 기준이지만, 통관 신고서(Customs Declaration) 발급 자체를 서류상 B/L당으로 처리하는 경우도 있을 수 있습니다. 그러나 해상 화물의 경우, 대부분 컨테이너 단위로 T1을 생성합니다. 
+요약
+비용 절감을 위해서는 동일 B/L 내에 컨테이너가 많더라도 T1은 컨테이너 수만큼 비용이 발생함을 인지하고 물류 계획을 세워야 합니다.
+~~~
+
+
+
+
+
+

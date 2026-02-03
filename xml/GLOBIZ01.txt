@@ -1,0 +1,26 @@
+** 기본정보
+회사명 : GLOBIZ LOGISTICS CO.,LTD. (GLOBIZ01)
+사업자 : 
+주소 : 
+
+** 담당자  
+
+김수정 부장 / 
+
+김시내
+Sinae Kim
+GLOBIZ LOGISTICS CO.,LTD.
+4, Obeyce town, 160, Sinamnam-ro, Dong-gu, Daegu, Republic of Korea (41219)
+TEL: 82-53-744-4500(IN) / 82-53-744-3100(OUT)
+FAX: 82-53-745-9047 / 82-53-745-9569
+E-mail:sn.kim@globizle.co.kr / globiz6@daum.net
+
+
+~~~
+POL : BUSAN
+POD : USMOB
+ITEM : SUB KD (SIMILAR ARTICLES SUITABLE FOR MOTOR VEHICLES) 
+HSCODE : 8302.30
+VOL : 40' * 5
+G/W : 19.9 TON
+~~~

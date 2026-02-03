@@ -1,0 +1,24 @@
+** 기본정보
+회사명 : 로지싱크 (LOGISYNC)
+사업자 : 
+주소 : 부산시 부산진구 중앙대로 615, 동관 901호 (범천동, 평광빌딩)
+
+** 담당자  
+이지혜 책임 / 070-4610-5140 / 010-8520-7255 / wendy@logisync.co.kr
+
+
+~~~
+POL : BUSAN
+POD : USDET
+ITEM : METAL PARTS FOR MOTOR CAR 
+HSCODE : 8708.99-9000
+VOL : 40' * 3
+G/W : 17.3 ~ 19.6 TON
+~~~
+POL : BUSAN
+POD : USLAX, USLGB
+ITEM : PLASTIC GARMENT COVER BAG FOR DRY CLEANING USE
+HSCODE : 3923.90
+VOL : 40' * 1
+G/W : 13.6 TON
+~~~
