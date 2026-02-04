@@ -65,6 +65,7 @@ background-color: #0085e7
 <a href="https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp?_menuNo=23100" target="_blank"> 환율(하나은행) </a>&nbsp;<BR>
 <a href="https://www.forwarder.kr/curr/index.php?curr=cbm" target="_blank"> CBM 계산기, 컨사이즈 </a>&nbsp;<BR>
 <a href="https://dict.naver.com/" target="right"> 네이버 사전 </a>&nbsp;<BR>
+<a href="NEWS.TXT" target="right"> 뉴스 </a>&nbsp;<BR>
 
 <BR><BR>
 [POD별 운항 선사 찾기]<BR>
