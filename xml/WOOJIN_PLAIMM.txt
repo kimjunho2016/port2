@@ -137,7 +137,39 @@ T1과 같은 Transit Document(운송 서류)는 실제 화물이 이동하는 �
 비용 절감을 위해서는 동일 B/L 내에 컨테이너가 많더라도 T1은 컨테이너 수만큼 비용이 발생함을 인지하고 물류 계획을 세워야 합니다.
 ~~~
 
+260209
 
+INCOTERMS : CIP ( 실진행 DAP )
+BUSAN - GDANSK
+VOL : 40'HC * 1
+G/W : 18.3 TON
+ITEM : injection molding machine
+HSCODE : 8477.10-2000
+VSL : REN JIAN 15 / 608S
+ETD 2/22 ~ ETA 4/14
+
+* 한국 프리타임 : 14 일
+* 그단스크 기본 도착지 프리타임
+MSK / DEM 7일 / DET 3일
+
+** EORI / PL526021312600000
+https://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en&EoriNumb=PL526021312600000&Expand=true
+
+② Buyer 
+Millennium Leasing sp. z o.o.
+Żaryna 2A Street, 02-593 Warsaw, Poland
+KRS: 0000081821     REGON: 012015417     
+VAT no.: PL5260213126
+
+https://www.millennium-leasing.pl/o-millennium-leasing
+　
+③ Notify Party 
+INTELIGHT SP.Z.O.O.
+Warsaw, Gwiazdzista 19 Street, 01-651 Warsaw, Poland
+KRS: 0000283791    REGON: 140934790      
+VAT no.: 5252399719     TEL : +48 22 100 35 10
+
+~~~
 
 
 
