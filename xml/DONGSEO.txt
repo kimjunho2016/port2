@@ -46,5 +46,14 @@ HSCODE : 8409.99
 VOL : 40*1
 G/W : 8 TON
 ~
+BUSAN - USHOU
+VOL : 40'RF(DG) X 1EA
+G/W : 3 TON
+UN NO / CLASS : 1263 / 3
+PACKING GROUP : Ⅱ
+ITEM : Paint
+HSCODE : ?
+컨테이너 온도 : +2도 / VENT : CLOSED
+~
 
 
