@@ -55,5 +55,26 @@ ITEM : Paint
 HSCODE : ?
 컨테이너 온도 : +2도 / VENT : CLOSED
 ~
+POL : BUSAN
+POD : KINGSTON, JAMEICA
+VOL : 20’DV * 1
+G/W : 확인중
+ITEM : Chlorine Reagent Kit
+HSCODE : 3822.19.3020
+UN number: 2583 
+Class: 8 
+Packing group: Ⅱ
+~
+UN 번호 2583, Class 8(부식성 물질)의 적정선적명(Proper Shipping Name)은 다음과 같습니다.
+영문: ALKYLSULPHONIC ACIDS, SOLID or ARYLSULPHONIC ACIDS, SOLID with more than 5% free sulphuric acid
+국문: 알킬술폰산, 고체 또는 아릴술폰산, 고체 (5% 초과의 유리 황산을 함유한 것) 
+주요 정보
+UN 번호: 2583
+위험 등급(Class): 8 (부식성 물질)
+포장 등급(Packing Group): II (높은 위험성) 
+~
+
+
+
 
 

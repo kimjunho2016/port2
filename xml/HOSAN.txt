@@ -7,6 +7,7 @@
 김서영 과장 / 051-469-0205 / 010-9507-8566
 
 
+~~~
 LINE : MSC
 POL : BUSAN
 POD : GDANSK, POLAND
@@ -30,6 +31,7 @@ TEL +38 048 780 2418
 EORI: LVUA41983980
 https://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en
 
+~~~
 
 LINE : GNLST
 POL : BUSAN
@@ -39,6 +41,8 @@ HSCODE : 2710.19-7120
 VOL : 20'DV
 G/W : 11.2 TON
 
+~~~
+
 ** GNSLT
 Jun Ho Kim (J.H. KIM) / Manager
 GNL ST Co., Ltd. (Global New Leader ST Co., Ltd.)
@@ -47,3 +51,7 @@ GNL ST Co., Ltd. (Global New Leader ST Co., Ltd.)
 📱 Mobile: +82-10-4548-0291
 ☎️ Direct: 070-7730-1152
 📠 Fax: +82-2-735-6516
+
+~~~
+
+
