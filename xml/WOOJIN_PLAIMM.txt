@@ -30,6 +30,19 @@ USCHI	0.01588 %
 MXZLO	0.01588 %
 
 ~~~
+
+POD : GDANSK
+DEL : ul. Polna 10, Michałów Reginów 05-119 Legionowo / POD - DEL : 329 KM / TKC : $760(?)
+DEL : Gwiaździsta 19, 01-651 Warszawa, Poland / POD - DEL : 331 KM / TKC : $760
+DEL : ul. Współpracy 1A Biskupice Podgórne 55-040 Kobierzyce / POD - DEL : 499 KM / TKC : $860
+DEL : ul. LG 4 Biskupice Podgorne 55-040 Kobierzyce. Poland / POD - DEL : 500 KM / TKC : $980
+DEL : Daszyńskiego 64, 43-450 Ustroń, Poland / POD - DEL : 600 KM / TKC : $1200
+
+CHINA - Malaszewicze, PL
+POD : Malaszewicze, PL
+DEL : Bielany Wrocławskie 55-040 Kobierzyce, Poland / POD - DEL : 560 ~ 620 KM / TKC : $1460
+
+~~~
 BUSAN - GDANSK
 DEL : Daszyńskiego 64, 43-450 Ustroń, Poland / POD - DEL : 600 KM
 VOL : 40'HC * 7 , 20'DV * 1
