@@ -43,4 +43,22 @@ HSCODE : 8413.40
 VOL : 40'HC * 1
 G/W : 11.9 TON
 ~~~
+BUSAN - USCHI
+ITEM : STEEL FORGED FITTINGS
+HSCODE : 7307.99, 7307.92
+VOL : 20'DV * 1
+
+화주명 / Hs code
+테라사이언스 / 7307.99
+더원글로벌	/ 7309.92
+포스유니온	/ 7309.92
+
+~~~
+
+
+
+
+
+
+
 

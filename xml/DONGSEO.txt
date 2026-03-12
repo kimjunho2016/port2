@@ -40,7 +40,7 @@ E-MAIL: OP@WEDOGLS.COM
 ~
 SHIPPER : 마린트랜스
 POL : BUSAN
-POD : USMIA
+POD : USMIA / USHOU
 ITEM : 선용품
 HSCODE : 8409.99
 VOL : 40*1
@@ -72,6 +72,16 @@ UN 번호 2583, Class 8(부식성 물질)의 적정선적명(Proper Shipping Nam
 UN 번호: 2583
 위험 등급(Class): 8 (부식성 물질)
 포장 등급(Packing Group): II (높은 위험성) 
+~
+260310
+SERVICE : ZSL
+POL : BUSAN
+POD : Freeport (GRAND BAHAMAS),BAHAMAS
+ITEM : SHIP SPARE PARTS
+HS CODE : 840999
+VOL : 40'FR(OWH) * 1
+G/W : 31,104 KGS / 1 PKG
+SIZE : 7,231 * 2,548 * 3,950 (MM)(LWH)
 ~
 
 
