@@ -68,6 +68,23 @@ background-color: #0085e7
 <a href="NEWS.TXT" target="right"> 뉴스 </a>&nbsp;<BR>
 
 <BR><BR>
+[선사 스케쥴 찾기]<BR>
+<a href="zim.php" target="_blank"> ZIM LINE </a>&nbsp;<BR>
+<a href="https://na.swireshipping.com/" target="_blank"> WSL </a>&nbsp;<BR>
+<a href="https://www.maersk.com/book/" target="_blank"> MSK </a>&nbsp;<BR>
+<a href="https://www.oocl.com/eng/ourservices/eservices/sailingschedule/Pages/default.aspx" target="_blank"> OOCL </a>&nbsp;<BR>
+<a href="https://www.cma-cgm.com/ebusiness/schedules" target="_blank"> CMA </a>&nbsp;<BR>
+<a href="https://ecomm.one-line.com/one-ecom/schedule/point-to-point-schedule" target="_blank"> ONE </a>&nbsp;<BR>
+<a href="https://www.hmm21.com/e-service/general/DashBoard.do" target="_blank"> HMM </a>&nbsp;<BR>
+<a href="https://ebiz.sinokor.co.kr/Schedule" target="_blank"> 장금 </a>&nbsp;<BR>
+<a href="https://esvc.smlines.com/smline/CUP_HOM_3001.do?sessLocale=ko" target="_blank"> SM LINE </a>&nbsp;<BR>
+<a href="https://elines.coscoshipping.com/ebusiness/sailingSchedule/searchByCity/resultByCity" target="_blank"> COSCO </a>&nbsp;<BR>
+<a href="https://www.yml.co.kr/intro" target="_blank"> YML </a>&nbsp;<BR>
+<a href="https://www.ekmtc.com/index.html#/main" target="_blank"> KMTC </a>&nbsp;<BR>
+<a href="https://www.msc.com/en/search-a-schedule" target="_blank"> MSC </a>&nbsp;<BR>
+<a href="https://esea.emiratesline.com/ecomonline/Welcome.do" target="_blank"> ESL </a>&nbsp;<BR>
+
+<BR><BR>
 [POD별 운항 선사 찾기]<BR>
 <a href="https://www.forwarder.kr/shipping/link.php" target="right"> 쉬핑링크 </a>&nbsp;<BR>
 <a href="1.php" target="right"> CKX 선사별 운항 PORT 검색 </a>&nbsp;<BR>
