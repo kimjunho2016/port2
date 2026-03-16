@@ -98,6 +98,13 @@ background-color: #0085e7
 <a href="https://www.cello-square.com/kr/index.do" target="_blank"> 첼로 스퀘어 </a>&nbsp;<BR>
 
 <BR><BR>
+[러시아 견적시 필요 사이트]<BR>
+<a href="https://www.yestrade.go.kr/user/main.do?method=main" target="_blank"> 전략물자 자가판정 </a>&nbsp;<BR>
+<a href="https://russia.kosti.or.kr/main.do" target="_blank"> 러시아제재 품목 조회 </a>&nbsp;<BR>
+<a href="https://russia.kosti.or.kr/user/Bd/BdCm010L.do?BD_NO=27&CURRENT_MENU_CODE=MENU0032&TOP_MENU_CODE=MENU0004" target="_blank"> 러시아제재 품목 조회 - 문의게시판</a>&nbsp;<BR>
+<a href="https://russia.kosti.or.kr/main.do" target="_blank"> 전략물자관리원(KOSTI) </a>&nbsp;<BR>
+
+<BR><BR>
 [업체별 관리 시트]<BR>
 <a href="https://docs.google.com/spreadsheets/d/1zQnF5yL2kPOInF-Mjbbwu97ez3YghTdTfA3T-6vdjgw/edit?gid=0#gid=0" target="right"> 동서콘솔 </a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1UEIQB6eaVqmb9ZKbWNcg_iF4yRu0Hicp5O4beywmZtc/edit?pli=1&gid=0#gid=0" target="right"> 진양 </a>&nbsp;
