@@ -95,6 +95,11 @@ background-color: #0085e7
 <a href="https://gemini.google.com/app" target="_blank"> GEMINI </a>&nbsp;
 
 <BR><BR>
+주식<BR>
+<a href="https://finance.naver.com/sise/theme.naver" target="_blank"> 네이버 - 테마별시세 </a>&nbsp;
+
+
+<BR><BR>
 [POD별 운항 선사 찾기]<BR>
 <a href="https://www.forwarder.kr/shipping/link.php" target="right"> 쉬핑링크 </a>&nbsp;
 <a href="1.php" target="right"> CKX 선사별 운항 PORT 검색 </a>&nbsp;<BR>
@@ -139,7 +144,8 @@ background-color: #0085e7
 
 <BR><BR>
 [LCL 입고 조회]<BR>
-<a href="https://www.jconsol.co.kr/sub04/sub03.php" target="right"> 제이콘솔창고 입고조회 </a>&nbsp;
+<a href="https://www.jconsol.co.kr/sub04/sub03.php" target="right"> 제이콘솔 창고 입고조회 </a>&nbsp;
+<a href="https://www.bestro-logix.co.kr/export/busan.html" target="right"> 베스트로 창고 입고조회(수출) </a>&nbsp;
 
 
 <BR><BR>
@@ -162,6 +168,7 @@ background-color: #0085e7
 <a href="https://www.oocl.com/KOREA/eng/localinformation/ddfreetime/Pages/default.aspx" target="_blank"> OOCL/DEM/DET </a>&nbsp;
 <a href="https://vivoldi.com/tools/html-color-picker" target="_blank"> HTML 색상 코드 검색 </a>&nbsp;
 <a href="https://github.com/" target="_blank"> GITHUB </a>&nbsp;
+<a href="https://www.exportvoucher.com/portal/peform/peformList?active_menu_cd=EZ004005000" target="_blank"> 바우처 수행기관 검색 </a>&nbsp;
 
 <BR><BR>
 [구글 시트]<BR>
@@ -178,6 +185,7 @@ background-color: #0085e7
 
 <BR><BR>
 [해상 견적시 참고 페이지]<BR>
+<a href="f2.TXT" target="_blank"> 포딩에 운임 안내 양식 </a>&nbsp;
 <a href="http://192.168.100.19/port2/f.php" target="_blank"> 포딩용 견적 양식 </a>&nbsp;
 <a href="https://www.hmm21.com/e-service/general/DashBoard.do" target="_blank"> 항구 3코드 검색(HMM) </a>&nbsp;
 <a href="https://www.marinetraffic.com/en/ais/details/ports/87?name=LOS-ANGELES&country=USA" target="_blank"> 마린트래픽(배,항구,지도 보기) </a>&nbsp;
