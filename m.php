@@ -67,6 +67,7 @@ background-color: #0085e7
 <a href="https://dict.naver.com/" target="right"> 네이버 사전 </a>&nbsp;
 <a href="NEWS.TXT" target="right"> 뉴스 </a>&nbsp;<BR>
 <a href="https://github.com/login" target="right"> GITHUB </a>&nbsp;<BR>
+<a href="https://www.marinetraffic.com/en/ais/details/ports/87?name=LOS-ANGELES&country=USA" target="_blank"> 마린트래픽(배,항구,지도 보기) </a>&nbsp;
 
 <BR><BR>
 [선사 스케쥴 찾기]<BR>
@@ -114,7 +115,7 @@ background-color: #0085e7
 
 <BR><BR>
 [러시아 견적시 필요 사이트]<BR>
-<a href="https://www.yestrade.go.kr/user/main.do?method=main" target="_blank"> 전략물자 자가판정 </a>&nbsp;
+<a href="https://www.yestrade.go.kr" target="_blank"> 전략물자 자가판정 </a>&nbsp;
 <a href="https://russia.kosti.or.kr/main.do" target="_blank"> 러시아제재 품목 조회 </a>&nbsp;<BR>
 <a href="https://russia.kosti.or.kr/user/Bd/BdCm010L.do?BD_NO=27&CURRENT_MENU_CODE=MENU0032&TOP_MENU_CODE=MENU0004" target="_blank"> 러시아제재 품목 조회 - 문의게시판</a>&nbsp;<BR>
 <a href="https://russia.kosti.or.kr/main.do" target="_blank"> 전략물자관리원(KOSTI) </a>&nbsp;<BR>
@@ -160,10 +161,10 @@ background-color: #0085e7
 
 <BR><BR>
 [정보 조회]<BR>
+<a href="https://calendar.online/calendar-weeks/2026" target="right"> 달력 몇주차 검색 </a>&nbsp;
 <a href="https://unipass.customs.go.kr/csp/index.do" target="right"> 유니패스-화물운송 주선업자 코드 조회-CKXX </a>&nbsp;
 <a href="http://www.hyojinlogis.com/?page_id=3075/" target="_blank"> 컨테이너 규격표 </a>&nbsp;
 <a href="https://www.chainportal.co.kr/portinfo/nexacro/index.html?screenid=screen_info" target="_blank"> (IIS)통합정보조회 서비스 - 체인포털 </a>&nbsp;
-<a href="https://calendar.online/calendar-weeks/2025/48" target="right"> 달력 몇주차 검색 </a>&nbsp;
 <a href="https://onlinealarmkur.com/date/ko/#subtract-date" target="right"> 날짜 계산기 </a>&nbsp;
 <a href="https://www.oocl.com/KOREA/eng/localinformation/ddfreetime/Pages/default.aspx" target="_blank"> OOCL/DEM/DET </a>&nbsp;
 <a href="https://vivoldi.com/tools/html-color-picker" target="_blank"> HTML 색상 코드 검색 </a>&nbsp;
@@ -188,7 +189,6 @@ background-color: #0085e7
 <a href="f2.TXT" target="_blank"> 포딩에 운임 안내 양식 </a>&nbsp;
 <a href="http://192.168.100.19/port2/f.php" target="_blank"> 포딩용 견적 양식 </a>&nbsp;
 <a href="https://www.hmm21.com/e-service/general/DashBoard.do" target="_blank"> 항구 3코드 검색(HMM) </a>&nbsp;
-<a href="https://www.marinetraffic.com/en/ais/details/ports/87?name=LOS-ANGELES&country=USA" target="_blank"> 마린트래픽(배,항구,지도 보기) </a>&nbsp;
 
 <BR><BR>
 [선사 스케쥴 조회]<BR>
@@ -207,7 +207,10 @@ background-color: #0085e7
 <a href="https://www.tradlinx.com/container-terminal-schedule" target="_blank"> 컨테이너 터미널 스케줄 </a>&nbsp;
 
 <BR><BR>
-[항공 견적시 참고 페이지]<BR>
+[항공]<BR>
+<a href="https://www.flightaware.com/ko-KR" target="_blank"> 항공스케쥴 조회(FLIGHT AWARE) </a>&nbsp;
+<a href="https://www.flightradar24.com/36.11,127.71/7" target="_blank"> 항공스케쥴 조회(FLIGHT RADAR) </a>&nbsp;
+<a href="https://dohahamadairport.com/airlines/flight-status?search_key=QR859&type=arrivals" target="_blank"> 항공스케쥴 조회(도하하마드공항) </a>&nbsp;
 <a href="https://www.airportal.go.kr/airline/airCompanyInfo.do" target="_blank"> 항공사코드 조회 2( 2자리 영문 ) </a>&nbsp;
 <a href="https://www.airportal.go.kr/airport/airport.do" target="_blank"> 공항 코드 조회 ( 3자리 영문 ) </a>&nbsp;
 <a href="https://www.world-airport-codes.com/" target="right"> 공항 코드 조회 ( 3자리 영문 ) (2)</a>&nbsp;
