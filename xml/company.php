@@ -59,7 +59,7 @@
 		삼건세기 (SAMKUN01) > (주)한영기연
 		삼경정기 (SKP01) / 
 		서부산유통 (SEOBUSAN) / 
-        세아스텐 (SHOT01) / 
+        <a href="SHOT01.txt" target="_self"> 세아스텐 (SHOT01) </a> / 
 		세종플렉스 (SJFLEX) / 
 		스칸텍 (SCANTEC) / 
 &nbsp;<BR>
