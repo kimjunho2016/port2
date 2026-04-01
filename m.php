@@ -51,7 +51,7 @@ background-color: #0085e7
 <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%99%98%EC%9C%A8%EA%B3%84%EC%82%B0" target="_blank"> 환율(네이버) </a>&nbsp;
 <a href="xml/company.php" target="right"> 거래업체 정보 </a>&nbsp;
 <a href="https://www.forwarder.kr/tariff/?quarter=2022_3&chg_type=%EC%95%88%EC%A0%84%EC%9A%B4%EC%86%A1%EC%9A%B4%EC%9E%84&stitle=%EB%B6%80%EC%82%B0%EC%8B%A0%ED%95%AD%EA%B8%B0%EC%A0%90&Send_region1=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84&Send_region2=&Send_region3=&tariff_region=&extra9=&extra8=&extra5=&extra10=" target="_blank"> 운송료 조회(안전운임) </a>&nbsp;
-<a href="REQUEST_TKC.TXT" target="_blank"> 운송료 문의 메일 보내기(동양, CHL, 원더로지스, TYX)</a>&nbsp;
+<a href="REQUEST_TKC.txt" target="right"> 운송료 문의 메일 보내기(동양, CHL, 원더로지스, TYX)</a>&nbsp;
 <a href="REQUEST_insurance.TXT" target="_blank"> 보험료 문의 메일 보내기(ACE보험)</a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1vL8h7z0vUmub2mIGhT_J0YvYxMQd8czdR9gQhRfJySY/edit?pli=1&gid=1439743634#gid=1439743634" target="_blank"> 외국 파트너에게 문의 메일 보내기</a>&nbsp;
 <a href="https://translate.google.co.kr/?hl=ko&sl=ko&tl=en&op=translate" target="_blank"> 구글 번역</a>&nbsp;
@@ -196,13 +196,14 @@ background-color: #0085e7
 <BR><BR>
 [구글 시트]<BR>
 <a href="https://docs.google.com/spreadsheets/d/1lC2MHJRbrrXZAL5MXpghgOsC6tTRM4Dp0jvzjvCxFOU/edit?usp=sharing" target="_blank"> 미주운임 공유시트 </a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1Fa1eyd-Pt1jZ-o2Q-m-9jx584BgMCilSy5CfHk9H5RM/edit?gid=2120252017#gid=2120252017" target="right">수출의 탑</a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1vJsCbT5KIjzq_4stB4WPKMyB6jHvlI10Fs7Ih86Qr8U/edit?usp=sharing" target="_blank"> 부산 포워딩 업체 명단(김남영공유)</a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1U4EOGPBmPYqPqcXnOVXv8ESGtkDPT2t5CHLDDAv-JFM/edit?gid=906028204#gid=906028204" target="right"> 견적서용-창고료-관부가세-선사별 서차지 </a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1JKoaEYEDwwFR9nLpr8d7PcOaiExhmnztgAIl5p-9aKM/edit?gid=0#gid=0" target="right"> FNS 미주 운송료 리스트 </a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1JrasosUfs5f92AxHEw5Ef6QzeDUO1fSqhguMOqEr4LM/edit?gid=880754564#gid=880754564" target="right"> 아프리카운임 </a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1p5FvI-Yo38su7KP9MnCWbMPkJbykipsuBXoefvA2EAc/edit?gid=0#gid=0" target="right"> CKX 계좌번호 </a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1-2QeEyQn01zxoR-22cqaXiJGBoKiybeF9Xnlp3_beBQ/edit?gid=684931413#gid=684931413" target="right">MEXICO TRUCKING</a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1ER-YCnPg-4Xpe6giFrPqrtj0Rt2iTT1xrKz0Wl7Ecdo/edit?gid=851128972#gid=851128972" target="right">수출 업체명 공유</a>&nbsp;
-<a href="https://docs.google.com/spreadsheets/d/1Fa1eyd-Pt1jZ-o2Q-m-9jx584BgMCilSy5CfHk9H5RM/edit?gid=2120252017#gid=2120252017" target="right">수출의 탑</a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/12yQUze_N8MoatX07d8RlBGHvBIo3PC6HFq0MSXNSXMU/edit?pli=1&gid=1331352308#gid=1331352308" target="right">미국 운임과 지도</a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1hjYfNLGjgfrxBEAitIQWfkHWLffqvs4OlBoEHyAOqCY/edit?gid=1070108048#gid=1070108048" target="right">CKX 김차장 월별 실적</a>&nbsp;
 
