@@ -44,18 +44,39 @@ background-color: #0085e7
 
 <body>
 
-[견적 문의 회신시 최초 코드발급]<BR>
+[견적 문의 회신시 최초 코드발급] <BR>
 <!-- <a href="http://192.168.100.19/ckx_code/1.php" target="_blank"> CKX-CODE 발급 </a>&nbsp; -->
 <!--<a href="../ckx_code/1.php" target="_blank"> CKX-CODE 발급 </a>&nbsp;-->
 <a href="../ckx_code/1.php" target="_blank"> CKX-CODE 발급 </a>&nbsp;
 <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%99%98%EC%9C%A8%EA%B3%84%EC%82%B0" target="_blank"> 환율(네이버) </a>&nbsp;
 <a href="xml/company.php" target="right"> 거래업체 정보 </a>&nbsp;
-<a href="https://www.forwarder.kr/tariff/?quarter=2022_3&chg_type=%EC%95%88%EC%A0%84%EC%9A%B4%EC%86%A1%EC%9A%B4%EC%9E%84&stitle=%EB%B6%80%EC%82%B0%EC%8B%A0%ED%95%AD%EA%B8%B0%EC%A0%90&Send_region1=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84&Send_region2=&Send_region3=&tariff_region=&extra9=&extra8=&extra5=&extra10=" target="_blank"> 운송료 조회(안전운임) </a>&nbsp;
-<a href="REQUEST_TKC.txt" target="right"> 운송료 문의 메일 보내기(동양, CHL, 원더로지스, TYX)</a>&nbsp;
-<a href="REQUEST_insurance.TXT" target="_blank"> 보험료 문의 메일 보내기(ACE보험)</a>&nbsp;
+<a href="REQUEST_insurance.txt" target="_blank"> 보험료 문의 메일 보내기(ACE보험)</a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1vL8h7z0vUmub2mIGhT_J0YvYxMQd8czdR9gQhRfJySY/edit?pli=1&gid=1439743634#gid=1439743634" target="_blank"> 외국 파트너에게 문의 메일 보내기</a>&nbsp;
 <a href="https://translate.google.co.kr/?hl=ko&sl=ko&tl=en&op=translate" target="_blank"> 구글 번역</a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/12yQUze_N8MoatX07d8RlBGHvBIo3PC6HFq0MSXNSXMU/edit?pli=1&gid=1331352308#gid=1331352308" target="_blank"> 미주 운임 시트</a>&nbsp;
+
+
+<BR><BR>
+[운송 관련] txt_1<BR>
+<a href="https://www.forwarder.kr/tariff/?quarter=2022_3&chg_type=%EC%95%88%EC%A0%84%EC%9A%B4%EC%86%A1%EC%9A%B4%EC%9E%84&stitle=%EB%B6%80%EC%82%B0%EC%8B%A0%ED%95%AD%EA%B8%B0%EC%A0%90&Send_region1=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84&Send_region2=&Send_region3=&tariff_region=&extra9=&extra8=&extra5=&extra10=" target="_blank"> 운송료 조회(안전운임) </a>&nbsp;
+<a href="txt_1/REQUEST_TKC.txt" target="right"> 운송료 문의 메일 보내기(동양, CHL, 원더로지스, TYX)</a>&nbsp;
+<a href="txt_1/WAREHOUSE_ADDRESS.TXT" target="right"> LCL 수출입시 창고지 주소 </a>&nbsp;
+<a href="txt_1/shuttle_charge.txt" target="right"> 셔틀비용 </a>&nbsp;
+<a href="txt_1/terminal_pre_in_charge.txt" target="right"> 터미널 선반입 비용 </a>&nbsp;
+<a href="txt_1/REQUEST_FR.txt" target="right"> FR 작업, 운송 비용 문의 </a>&nbsp;
+<a href="https://www.forwarder.kr/curr/index.php?curr=cbm" target="_blank"> CBM 계산기, 컨사이즈 </a>&nbsp;<BR>
+
+<BR><BR>
+[운송 관련 자료] txt_3<BR>
+<a href="txt_3/tkc_ows.txt" target="right"> 내륙운송시 중량물 할증 자료 </a>&nbsp;
+<a href="txt_3/DK_OWS.txt" target="right"> DKA OWS 자료 </a>&nbsp;
+<a href="fr.php" target="right"> FR </a>&nbsp;
+<a href="shuttle.php" target="right"> 상하차료/셔틀료/보관료 </a>&nbsp;
+<a href="https://www.forwarder.kr/curr/truck_info.php" target="right"> 화물차량 제원조회 </a>&nbsp;
+<a href="https://www.logishop.co.kr/ps_s" target="_blank"> 컨테이너 파렛 적재수량 계산기 </a>&nbsp;
+<a href="http://www.hyojinlogis.com/?page_id=3075/" target="_blank"> 컨테이너 규격표 </a>&nbsp;
+<a href="https://www.bestro-logix.co.kr/inc/side_menu_cbm_popup.html" target="_blank"> CBM CALCULATOR </a>&nbsp;
+
 
 <BR><BR>
 [진행건 시트 업데이트시 조회]<BR>
@@ -92,7 +113,7 @@ background-color: #0085e7
 <a href="https://esea.emiratesline.com/ecomonline/Welcome.do" target="_blank"> ESL </a>&nbsp;
 <BR><BR>
 
-[각종 조회]<BR>
+[각종 조회] txt_2<BR>
 <a href="http://192.168.100.19/bbs/zboard.php?id=work_data" target="_blank"> 업무 자료 저장소 </a>&nbsp;<BR>
 <a href="https://www.logisview.com/svc/expTracking" target="_blank"> 로지스뷰(컨추적) </a>&nbsp;
 <a href="https://unipass.customs.go.kr/clip/index.do" target="right"> 한국 HSCODE 조회 </a>&nbsp;<BR>
@@ -101,11 +122,16 @@ background-color: #0085e7
 <a href="http://192.168.100.19/myadmin/index.php?lang=ko-euc-kr&server=1&db=ckx&table=line_surcharge&" target="_blank"> MYSQL DB 로그인 </a>&nbsp;
 <a href="https://www.google.com/maps/?authuser=0&entry=ttu" target="_blank"> 구글 지도 </a>&nbsp;<BR>
 <a href="https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp?_menuNo=23100" target="_blank"> 환율(하나은행) </a>&nbsp;
-<a href="https://www.forwarder.kr/curr/index.php?curr=cbm" target="_blank"> CBM 계산기, 컨사이즈 </a>&nbsp;<BR>
 <a href="https://dict.naver.com/" target="right"> 네이버 사전 </a>&nbsp;
-<a href="NEWS.TXT" target="right"> 뉴스 </a>&nbsp;<BR>
+<a href="txt_2/NEWS.TXT" target="right"> 뉴스 </a>&nbsp;<BR>
 <a href="https://github.com/login" target="right"> GITHUB </a>&nbsp;<BR>
 <a href="https://www.marinetraffic.com/en/ais/details/ports/87?name=LOS-ANGELES&country=USA" target="_blank"> 마린트래픽(배,항구,지도 보기) </a>&nbsp;
+
+
+<BR><BR>
+[LCL 입고 조회]<BR>
+<a href="https://www.jconsol.co.kr/sub04/sub03.php" target="right"> 제이콘솔 창고 입고조회 </a>&nbsp;
+<a href="https://www.bestro-logix.co.kr/export/busan.html" target="right"> 베스트로 창고 입고조회(수출) </a>&nbsp;
 
 
 <BR><BR>
@@ -166,26 +192,9 @@ background-color: #0085e7
 
 
 <BR><BR>
-[LCL 입고 조회]<BR>
-<a href="https://www.jconsol.co.kr/sub04/sub03.php" target="right"> 제이콘솔 창고 입고조회 </a>&nbsp;
-<a href="https://www.bestro-logix.co.kr/export/busan.html" target="right"> 베스트로 창고 입고조회(수출) </a>&nbsp;
-
-
-<BR><BR>
-[LCL 창고 주소]<BR>
-<a href="WAREHOUSE_ADDRESS.TXT" target="right"> LCL 수입시 창고지 주소 </a>&nbsp;
-
-<BR><BR>
-[LCL 국내 운송료 문의 멘트]<BR>
-<a href="LCL_TKC.TXT" target="right"> 동양 로지스틱스 </a>&nbsp;
-
-
-
-<BR><BR>
 [정보 조회]<BR>
 <a href="https://calendar.online/calendar-weeks/2026" target="right"> 달력 몇주차 검색 </a>&nbsp;
 <a href="https://unipass.customs.go.kr/csp/index.do" target="right"> 유니패스-화물운송 주선업자 코드 조회-CKXX </a>&nbsp;
-<a href="http://www.hyojinlogis.com/?page_id=3075/" target="_blank"> 컨테이너 규격표 </a>&nbsp;
 <a href="https://www.chainportal.co.kr/portinfo/nexacro/index.html?screenid=screen_info" target="_blank"> (IIS)통합정보조회 서비스 - 체인포털 </a>&nbsp;
 <a href="https://onlinealarmkur.com/date/ko/#subtract-date" target="right"> 날짜 계산기 </a>&nbsp;
 <a href="https://www.oocl.com/KOREA/eng/localinformation/ddfreetime/Pages/default.aspx" target="_blank"> OOCL/DEM/DET </a>&nbsp;
@@ -257,10 +266,6 @@ background-color: #0085e7
 <BR><BR>
 <a href="https://translate.google.co.kr/?hl=ko&sl=en&tl=ko&op=translate" target="_blank"> 구글번역 </a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank"> 구글시트 메인 </a>&nbsp;
-<a href="https://www.forwarder.kr/curr/truck_info.php" target="right"> 화물차량 제원조회 </a>&nbsp;
-<a href="https://www.logishop.co.kr/ps_s" target="_blank"> 컨테이너 파렛 적재수량 계산기 </a>&nbsp;
-<a href="https://www.bestro-logix.co.kr/inc/side_menu_cbm_popup.html" target="_blank"> CBM CALCULATOR </a>&nbsp;
-
 
 <BR><BR>
 <a href="terminal.php" target="right"> 터미널-모선 조회 </a>&nbsp;
@@ -272,9 +277,6 @@ background-color: #0085e7
 <a href="http://192.168.100.19/bbs/zboard.php?id=sales" target="_blank"> sales </a>&nbsp;
 <a href="http://192.168.100.19/bbs/zboard.php?id=phone" target="_blank"> 업체연락 </a>&nbsp;
 
-<BR><BR>
-<a href="fr.php" target="right"> FR </a>&nbsp;
-<a href="shuttle.php" target="right"> 상하차료/셔틀료/보관료 </a>&nbsp;
 
 <BR><BR>
 <a href='1.php'>처음 화면으로</a>
