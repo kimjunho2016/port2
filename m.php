@@ -68,6 +68,7 @@ background-color: #0085e7
 
 <BR><BR>
 [운송 관련 자료] txt_3<BR>
+<a href="txt_3/request_rate.txt" target="right"> FR - 작업료,셔틀료,쇼링료,타포린 견적 문의 </a>&nbsp;
 <a href="txt_3/tkc_ows.txt" target="right"> 내륙운송시 중량물 할증 자료 </a>&nbsp;
 <a href="txt_3/DK_OWS.txt" target="right"> DKA OWS 자료 </a>&nbsp;
 <a href="fr.php" target="right"> FR </a>&nbsp;

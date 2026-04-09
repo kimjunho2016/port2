@@ -111,7 +111,7 @@
 		조광 (JOKWANG) / 
 		<a href="jinyang.txt" target="_self"> 진양에너지유틸리티 (CHINYANG) </a> 		
 		크루디앤피 (CRW) / 
-		파워펌프 (GSP01) / 
+		<a href="GSP01.txt" target="_self">파워펌프 (GSP01) </a> / 
 &nbsp;<BR>
 		한국IBR (KOREAIBR) / 
 		<a href="HOSAN.txt" target="_self"> 호산무역 (HOSAN) </a>
@@ -125,10 +125,11 @@
 		YIYING (QUIL_SHA) / 
 &nbsp;<BR>
 &nbsp;<BR>
-(실화주)
+(컨택 실화주)
 &nbsp;<BR>
-<a href="SAMWON.txt" target="_self"> 삼원 </a>
-<a href="SEOWONTECH.txt" target="_self"> 서원테크 (SWTECH) </a>&nbsp;<BR>
+<a href="SAMWON.txt" target="_self"> 삼원 </a>&nbsp;
+<a href="SEOWONTECH.txt" target="_self"> 서원테크 (SWTECH) </a>&nbsp;
+<a href="NEFSS.txt" target="_self"> NEFSS </a>
 &nbsp;<BR>
 &nbsp;<BR>
 (포딩)
