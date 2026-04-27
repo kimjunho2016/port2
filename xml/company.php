@@ -103,7 +103,7 @@
 		모던텍 (MODERN01) / 
 		베가통신 (VEGA) / 
 		성광프라 (SKPLA) / 
-		성일 (SUNGIL) / 
+		<a href="SUNGIL.txt" target="_self"> 성일 (SUNGIL) /  </a>
 		세진밸브 (SJV01) / 
 &nbsp;<BR>  
 		<a href="SCANTEK.txt" target="_self"> 스칸텍 (SCANTEC) </a>
