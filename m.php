@@ -128,6 +128,7 @@ background-color: #0085e7
 <a href="txt_2/NEWS.TXT" target="right"> 뉴스 </a>&nbsp;<BR>
 <a href="https://github.com/login" target="right"> GITHUB </a>&nbsp;<BR>
 <a href="https://www.marinetraffic.com/en/ais/details/ports/87?name=LOS-ANGELES&country=USA" target="_blank"> 마린트래픽(배,항구,지도 보기) </a>&nbsp;
+<a href="https://www.vesselfinder.com/vessels/details/9402500" target="_blank"> vesselfinder(선령체크) </a>&nbsp;
 
 
 <BR><BR>
@@ -303,5 +304,6 @@ background-color: #0085e7
 260107 / 프레임 분리
 260109 / 링크 수정, 추가
 260130 / 제이콘솔 창고 입고조회 추가
+260519 / vesselfinder(선령체크) 추가
 
 -->
