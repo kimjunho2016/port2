@@ -219,6 +219,8 @@ background-color: #0085e7
 <a href="https://docs.google.com/spreadsheets/d/1ER-YCnPg-4Xpe6giFrPqrtj0Rt2iTT1xrKz0Wl7Ecdo/edit?gid=851128972#gid=851128972" target="right">수출 업체명 공유</a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/12yQUze_N8MoatX07d8RlBGHvBIo3PC6HFq0MSXNSXMU/edit?pli=1&gid=1331352308#gid=1331352308" target="right">미국 운임과 지도</a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/d/1hjYfNLGjgfrxBEAitIQWfkHWLffqvs4OlBoEHyAOqCY/edit?gid=1070108048#gid=1070108048" target="right">CKX 김차장 월별 실적</a>&nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1waSwPck49oYz5_ozvw9Xs1JCBYXez2tI9qE45dzcZ7U/edit?usp=sharing" target="_blank">ZIM 부킹내역(부산사무소)</a>&nbsp;
+
 
 <BR><BR>
 [해상 견적시 참고 페이지]<BR>
