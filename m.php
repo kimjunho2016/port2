@@ -77,6 +77,8 @@ background-color: #0085e7
 <a href="https://www.logishop.co.kr/ps_s" target="_blank"> 컨테이너 파렛 적재수량 계산기 </a>&nbsp;
 <a href="http://www.hyojinlogis.com/?page_id=3075/" target="_blank"> 컨테이너 규격표 </a>&nbsp;
 <a href="https://www.bestro-logix.co.kr/inc/side_menu_cbm_popup.html" target="_blank"> CBM CALCULATOR </a>&nbsp;
+<a href="https://www.forwarder.kr/cbm/" target="_blank"> CBM 계산기(포워더케이알) </a>&nbsp;
+<a href="https://logilogic.netlify.app/" target="_blank"> CBM 계산기 2</a>&nbsp;
 
 
 <BR><BR>
@@ -121,6 +123,7 @@ background-color: #0085e7
 <a href="https://hts.usitc.gov/search?query=4008.21" target="_blank"> 미국 HSCODE 조회 </a>&nbsp;
 <a href="https://www.wcotradetools.org/en/harmonized-system" target="_blank"> HSCODE 조회(WCO) </a>&nbsp;
 <a href="https://www.windy.com/?37.287,127.012,5" target="_blank"> 날씨 지도 보기 </a>&nbsp;<BR>
+<a href="https://www.utic.go.kr/main/main.do#" target="_blank"> CCTV 보기(현장 날씨 - 비오는지 보기) </a>&nbsp;<BR>
 <a href="http://192.168.100.19/myadmin/index.php?lang=ko-euc-kr&server=1&db=ckx&table=line_surcharge&" target="_blank"> MYSQL DB 로그인 </a>&nbsp;
 <a href="https://www.google.com/maps/?authuser=0&entry=ttu" target="_blank"> 구글 지도 </a>&nbsp;<BR>
 <a href="https://www.kebhana.com/cont/mall/mall15/mall1501/index.jsp?_menuNo=23100" target="_blank"> 환율(하나은행) </a>&nbsp;
@@ -251,7 +254,8 @@ background-color: #0085e7
 <a href="https://dohahamadairport.com/airlines/flight-status?search_key=QR859&type=arrivals" target="_blank"> 항공스케쥴 조회(도하하마드공항) </a>&nbsp;
 <a href="https://www.airportal.go.kr/airline/airCompanyInfo.do" target="_blank"> 항공사코드 조회 2( 2자리 영문 ) </a>&nbsp;
 <a href="https://www.airportal.go.kr/airport/airport.do" target="_blank"> 공항 코드 조회 ( 3자리 영문 ) </a>&nbsp;
-<a href="https://www.world-airport-codes.com/" target="right"> 공항 코드 조회 ( 3자리 영문 ) (2)</a>&nbsp;
+<a href="https://www.world-airport-codes.com/" target="_blank"> 공항 코드 조회 ( 3자리 영문 ) (2)</a>&nbsp;
+<a href="https://www.kas.co.kr/business/freight/storage-charge/storage-fee-estimate" target="_blank"> 공항 창고료 조회</a>&nbsp;
 
 
 <br><br>
@@ -308,5 +312,6 @@ background-color: #0085e7
 260130 / 제이콘솔 창고 입고조회 추가
 260519 / vesselfinder(선령체크) 추가
 260520 / ZIM 부킹내역(부산사무소) 추가
+260612 / CBM 계산기 추가
 
 -->
