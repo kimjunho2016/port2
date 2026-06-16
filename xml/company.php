@@ -130,6 +130,7 @@
 <a href="SAMWON.txt" target="_self"> 삼원 </a>&nbsp;
 <a href="SEOWONTECH.txt" target="_self"> 서원테크 (SWTECH) </a>&nbsp;
 <a href="NEFSS.txt" target="_self"> NEFSS </a>
+<a href="MR.txt" target="_self"> (주)엠알이노베이션 </a>
 &nbsp;<BR>
 &nbsp;<BR>
 (포딩)
