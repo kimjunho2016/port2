@@ -85,7 +85,7 @@
 (여민정) 
 &nbsp;<BR>
 (포딩)	
-		경일 (KYUNG-IL) / 
+		<a href="KYUNGIL.txt" target="_self"> 경일 (KYUNG-IL) </a> /   
 		<a href="LEONA.txt" target="_self"> LEONA (LEONA) </a> / 
 		러시아-김승환 (CKXVVO) 
 		제이콘솔 (JCONSOL01) / 
