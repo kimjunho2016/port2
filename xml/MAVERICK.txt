@@ -46,8 +46,8 @@ G/W : 11.9 TON
 BUSAN - USCHI
 ITEM : STEEL FORGED FITTINGS
 HSCODE : 7307.99, 7307.92
-VOL : 20'DV * 1
-
+VOL : 20'DV * 1 / 13.1 TON
+40'HC / 18.3 TON
 화주명 / Hs code
 테라사이언스 / 7307.99
 더원글로벌	/ 7309.92
