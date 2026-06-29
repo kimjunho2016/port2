@@ -61,7 +61,7 @@
 		서부산유통 (SEOBUSAN) / 
         <a href="SHOT01.txt" target="_self"> 세아스텐 (SHOT01) </a> / 
 		세종플렉스 (SJFLEX) / 
-		스칸텍 (SCANTEC) / 
+		<a href="SCANTEC.txt" target="_self"> 스칸텍 (SCANTEC) </a> / 
 &nbsp;<BR>
 		알뜰농산 (ALDDUL) / 
 		에너지스트 (INT01) / 

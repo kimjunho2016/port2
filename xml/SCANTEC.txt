@@ -1,0 +1,266 @@
+** 기본정보
+회사명 : 스칸텍 (SCANTEC)
+사업자 : 
+주소 : 73, Goldenroot-ro 130beon-gil, Juchon-myeon, Gimhae, Gyeognam, Korea
+경남 김해시 주촌면 골든루트로 130번길 73
+
+** 담당자  
+이상문 이사 / 010-7104-1675 / smlee@scantec.co.kr
+
+INCOTERMS : CIF
+POL : BUSAN
+POD : SHANGHAI, CHINA
+VOL : 40’HC * 1, 40’HC(DG) * 1
+ITEM : REMOTE CONTROL VALVE SYSTEM
+HSCODE : 8481.90.0000
+UN : 3164, CLASS 2.2, N2 GAS
+LSS : 수출자 부담($140 / CNTR), TOTAL $280
+CARGO READY : 2025/08/14
+REMARK : N2 GAS 충전, 2 B/L 진행
+INVOICE VALUE : $185,000
+도착지 프리타임 : 21일 요청 / 선사에 요청
+디지플래너 : 견적 요청, 운송도 가능한지 문의
+에이스 보험 : 
+국내운송 : 대우로지스틱스
+
+** 디지플래너 (위험물 검사 대행)
+김준섭 계장	kjs@dgplanner.co.kr; hspark@dgplanner.co.kr; 	lsy@dgplanner.co.kr
+DW 장치장 코드 : 030-78-039
+
+18번 박스 제품에 N2 GAS 충전되어 있습니다.
+
+** HPU PDF 파일은 HPU 에 대한 대략적인 설명이고, 교육자료 내에 3번 HPU 항목에 주요기능이 설명되어 있습니다.			
+** 18번 위험물 화물 INVOICE VALUE는 USD 10,000 입니다.			
+** ACCUMULATOR 검사 성적서 및 제품 포장전 사진 첨부와 같이 송부 하오니, 참조 하시기 바랍니다.			
+** 카탈로그는 아래의 링크를 참고해 주세요.			
+Scantec			
+** 요청견적 : 위험물 보관료, 컨테이너 셔틀 운송비, STUFFING CHARGE(2단 작업 기준), 화물 쇼링비, 위험물 검사비, 위험물 취급비, 위험물 표찰,			
+              DG라벨, WOODEN CASE CHARGE, DIRECT CARRY CHARGE, 기타 비용		
+
+.
+
+
+위험물 견적 문의 / N2 가스 충전 장비
+
+* 대우로지스틱스
+
+(CKX - 대우로지스틱스) 운송건 견적 문의 / C935
+26-6-29
+
+안녕하세요 대리님.
+수고 많으십니다.
+
+아래 구간 운송료 문의 드립니다.
+(CFS 견적은 본건 위험물로 타업체 CFS 이용예정이라 운송료만 안내 주시면 됩니다)
+
+#18 번 박스만 위험물입니다. (질소가스 N2 충전된 장비), 나머지 박스는 전부 비위험물 입니다.
+
+픽업지 : 경남 김해시 주촌면 골든루트로 130번길 73
+반입지 : 디지플래너 신항창고 (경남 창원시 진해구 신항10로 16 DW국제물류센터 內 디지플래너) 
+
+** WOODEN BOX : 18 BOX
+
+Box No.	Description	Q’ty	Packing  Size 	Net 	Gross 
+			( L × W × H )	Weight ( Kg )	Weight ( Kg )
+HULL NO.: HT-OT319-373
+1	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV2,CTV23,CTV25,CTV35			
+2	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV31,CTV40,CTV219,CTV221			
+3	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV26,CTV29,CTV30,CTV220			
+4	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV3,CTV34,CTV36,CTV37			
+5	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV24,CTV33,CTV38,CTV39			
+6	RAP 1200(2EA) / 640 (2EA)	4	2,200 x 1,240 x 650	786 Kg	875 Kg
+	Valve No. CTV1,CTV8,CTV11,CTV27			
+　
+HULL NO.: HT-OT319-373
+7	RAP 640	6	1,860 x 1,520 x 590	852 Kg	932 Kg
+	Valve No. CTV4,CTV5,CTV13,CTV20,CTV28,CTV32			
+8	RAP 640	6	1,860 x 1,520 x 590	852 Kg	932 Kg
+	Valve No. CTV6,CTV7,CTV9,CTV15,CTV19,CTV45			
+9	RAP 640	6	1,860 x 1,520 x 590	852 Kg	932 Kg
+	Valve No. CTC10,CTV12,CTV14,CTV16,CTV18,CTV42			
+10	RAP 640	6	1,860 x 1,520 x 590	852 Kg	1,094 Kg
+	Valve No. CTV41,CTV43,CTV47,CTV48,CTV52,VDV1			
+11	RAP 640	6	2,200 x 1,560 x 590	852 Kg	1,094 Kg
+	Valve No. CTV17,CTV44,CTV46,CTV49,CTV50,CTV51			
+12	RAP 320	12	2,200 x 1,560 x 590	756 Kg	846 Kg
+	Valve No. CTV53,BAV1,BAV2,BAV3,BAV4,BAV17			
+	,            BAV18,BAV19,BAV20,BAV21,BAV22,BAV23			
+　
+13	RAP 160	24	2,300 x 2,000 x 500	960 Kg	1,070 Kg
+	Valve No. BAV06,BAV07,BAV8,BAV9,BAV10,BAV12			
+	BAV13,BAV14,BAV15,BAV16, CTV59,CTV60,CTV61			
+	CTV62,CTV63,CTV64,CTV65,CTV66,CTV67,CTV68			
+	CTV69,CTV70,CTV72,CTV73			
+14	RAP 160(12EA)/80(2EA)45(2EA)18(12EA)	28	2,300 x 2,000 x 500	696 Kg	806 Kg
+	Valve No. BAV5,BAV11,CTV71,CTV74,CTV75,CTV21			
+	CTV22,CTV54,CTV55,CTV56,CTV57,CTV58,CTV76			
+	CTV77,BAV24,BAV25,BAV26,BAV27,BAV28,BAV29			
+	BAV30,BAV31,BAV32,BAV33,BAV34,BAV35,BAV36			
+	BAV37			
+15	SOLENOID VAVLE CABINET	1	2,580 x 1,060 x 2,290	650 Kg	910 Kg
+	NO.2			
+16	SOLENOID VAVLE CABINET	1	1,810 x 1,060 x 2,190	410 Kg	600 Kg
+	NO.1			
+17	LOOSE & SPARE PARTS	1	2,260 x 1,860 x 1,740	650 Kg	950 Kg
+	PORTABLE HP(2EA)/BL SEAT(21EA)/SPARE BOX			
+	BYPASS VV(1EA)/COUNTER FITTING/MIMIC PANEL			
+18	HYUDRAULIC POWER UNIT	1	1,660 x 1,460 x 2,290	810 Kg
+(질소 16 KG포함)	1050 Kg
+	질소 충전된 장비			
+　
+
+* 디지플래너
+(CKX - DG PLANER) 위험물 진행건 견적 문의 / C935
+2026-06-29 (월) 오후 1:45
+
+
+수신 : 김준섭 계장님 / DG PLANNER
+발신 : 김동규 차장 / CKX
+
+안녕하세요 계장님.
+수고 많으십니다.
+
+2026년 6월에 진행했었던, 상해향 DG 건과 동일한 내용으로 견적 문의 드립니다.
+
+이전 문의건 메일 제목 : (CKX - DG PLANER) 위험물 진행건 견적 문의 / C915 
+
+INCOTERMS : CIF
+POL : BUSAN
+POD : SHANGHAI, CHINA
+VOL : 40’HC * 1, 40’HC(DG) * 1
+ITEM : REMOTE CONTROL VALVE SYSTEM
+HSCODE : 8481.90.0000
+CARGO READY : 7월 상반기
+창고주소 : 디지플래너 신항창고 (경남 창원시 진해구 신항10로 16 DW국제물류센터 內 디지플래너) 
+디지플래너 신항창고 입고예정일 : 
+위험물 검사 요청일 : 
+** 요청견적 : 위험물 보관료, 컨테이너 셔틀 운송비, STUFFING CHARGE(2단 작업 기준), 화물 쇼링비, 위험물 검사비, 위험물 취급비, 위험물 표찰, DG라벨, WOODEN CASE CHARGE, DIRECT CARRY CHARGE, 기타 비용
+
+MSDS 첨부 드립니다.
+UN : 3164
+CLASS : 2.2
+NAME : N2 GAS
+
+카탈로그는 아래의 링크를 참고해 주세요.
+Scantec
+
+
+** WOODEN BOX : 18 BOX
+
+Box No.	Description	Q’ty	Packing  Size 	Net 	Gross 
+			( L × W × H )	Weight ( Kg )	Weight ( Kg )
+HULL NO.: HT-OT319-373
+1	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV2,CTV23,CTV25,CTV35			
+2	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV31,CTV40,CTV219,CTV221			
+3	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV26,CTV29,CTV30,CTV220			
+4	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV3,CTV34,CTV36,CTV37			
+5	RAP 1200	4	2,200 x 1,240 x 650	1,004 Kg	1,094 Kg
+	Valve No. CTV24,CTV33,CTV38,CTV39			
+6	RAP 1200(2EA) / 640 (2EA)	4	2,200 x 1,240 x 650	786 Kg	875 Kg
+	Valve No. CTV1,CTV8,CTV11,CTV27			
+　
+HULL NO.: HT-OT319-373
+7	RAP 640	6	1,860 x 1,520 x 590	852 Kg	932 Kg
+	Valve No. CTV4,CTV5,CTV13,CTV20,CTV28,CTV32			
+8	RAP 640	6	1,860 x 1,520 x 590	852 Kg	932 Kg
+	Valve No. CTV6,CTV7,CTV9,CTV15,CTV19,CTV45			
+9	RAP 640	6	1,860 x 1,520 x 590	852 Kg	932 Kg
+	Valve No. CTC10,CTV12,CTV14,CTV16,CTV18,CTV42			
+10	RAP 640	6	1,860 x 1,520 x 590	852 Kg	1,094 Kg
+	Valve No. CTV41,CTV43,CTV47,CTV48,CTV52,VDV1			
+11	RAP 640	6	2,200 x 1,560 x 590	852 Kg	1,094 Kg
+	Valve No. CTV17,CTV44,CTV46,CTV49,CTV50,CTV51			
+12	RAP 320	12	2,200 x 1,560 x 590	756 Kg	846 Kg
+	Valve No. CTV53,BAV1,BAV2,BAV3,BAV4,BAV17			
+	,            BAV18,BAV19,BAV20,BAV21,BAV22,BAV23			
+　
+13	RAP 160	24	2,300 x 2,000 x 500	960 Kg	1,070 Kg
+	Valve No. BAV06,BAV07,BAV8,BAV9,BAV10,BAV12			
+	BAV13,BAV14,BAV15,BAV16, CTV59,CTV60,CTV61			
+	CTV62,CTV63,CTV64,CTV65,CTV66,CTV67,CTV68			
+	CTV69,CTV70,CTV72,CTV73			
+14	RAP 160(12EA)/80(2EA)45(2EA)18(12EA)	28	2,300 x 2,000 x 500	696 Kg	806 Kg
+	Valve No. BAV5,BAV11,CTV71,CTV74,CTV75,CTV21			
+	CTV22,CTV54,CTV55,CTV56,CTV57,CTV58,CTV76			
+	CTV77,BAV24,BAV25,BAV26,BAV27,BAV28,BAV29			
+	BAV30,BAV31,BAV32,BAV33,BAV34,BAV35,BAV36			
+	BAV37			
+15	SOLENOID VAVLE CABINET	1	2,580 x 1,060 x 2,290	650 Kg	910 Kg
+	NO.2			
+16	SOLENOID VAVLE CABINET	1	1,810 x 1,060 x 2,190	410 Kg	600 Kg
+	NO.1			
+17	LOOSE & SPARE PARTS	1	2,260 x 1,860 x 1,740	650 Kg	950 Kg
+	PORTABLE HP(2EA)/BL SEAT(21EA)/SPARE BOX			
+	BYPASS VV(1EA)/COUNTER FITTING/MIMIC PANEL			
+18	HYUDRAULIC POWER UNIT	1	1,660 x 1,460 x 2,290	810 Kg
+(질소 16 KG포함)	1050 Kg
+	질소 충전된 장비			
+　
+
+* 장금상선
+
+RE: (CKX - 장금) BUSAN - SHANGHAI 구간 / 수출 운임 문의 / C935
+2026-06-29 (월) 오후 1:37
+
+수신 : 강일훈 부장님 / 장금상선
+발신 : 김동규 차장 / CKX
+
+안녕하세요 부장님.
+수고 많으십니다.
+
+아래 구간 부킹하고자 합니다.
+SC 번호와 운임 안내 부탁드립니다.
+
+INCOTERMS : CIF
+POL : BUSAN
+POD : SHANGHAI, CHINA
+VOL : 40’HC * 1, 40’HC(DG) * 1
+ITEM : REMOTE CONTROL VALVE SYSTEM
+HSCODE : 8481.90.0000
+UN : 3164, CLASS 2.2, N2 GAS
+LSS : 수출자 부담
+REMARK : N2 GAS 충전, 2 B/L 진행
+INVOICE VALUE : $183,600
+TARGET VSL : CHENNAI VOYAGER / 2607S / ETD 7/14
+REMARK : 도착지 프리타임 : 21일 요청
+
+.
+아래 상해향 일반물, 위험물 운임과, 부킹을 위해 SC 번호 요청드립니다.
+.
+요청하신 구간의 운임은 아래와 같습니다. 
+
+40’ HC : USD 1/2 선적지 AFS, DOF, THC 면제, 도착지 LSS (7/01 부터 USD 200/400 별도) 
+40’ HC DG : USD 30/60 선적지 AFS, DOF, THC 면제, 도착지 LSS (7/01 부터 USD 200/400 별도)
+
+SC NO 는 없이 부킹 가능하십니다. 부킹 주시면, 제가 추후 SC 생성하게 됩니다.  
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+
+						
