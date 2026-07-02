@@ -1,0 +1,9 @@
+** 세종플랙스
+
+CODE : SJFLEX
+ITEM : PVC HOSE
+HSCODE : 3917.39
+VOL : 20'DV
+G/W : 6.6 TON/CNTR
+VOL : 40'HC
+G/W : 23.6 TON/CNTR

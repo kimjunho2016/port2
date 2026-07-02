@@ -60,7 +60,7 @@
 		삼경정기 (SKP01) / 
 		서부산유통 (SEOBUSAN) / 
         <a href="SHOT01.txt" target="_self"> 세아스텐 (SHOT01) </a> / 
-		세종플렉스 (SJFLEX) / 
+		<a href="SJFLEX.txt" target="_self"> 세종플렉스 (SJFLEX) </a> / 
 		<a href="SCANTEC.txt" target="_self"> 스칸텍 (SCANTEC) </a> / 
 &nbsp;<BR>
 		알뜰농산 (ALDDUL) / 
