@@ -115,7 +115,7 @@
 &nbsp;<BR>
 		ÇÑ±¹IBR (KOREAIBR) / 
 		<a href="HOSAN.txt" target="_self"> È£»ê¹«¿ª (HOSAN) </a>
-		È­½Â (HWASEUNG) / 
+		<a href="HWASEUNG.txt" target="_self"> È­½Â (HWASEUNG) </a> / 
 		<a href="hcglobal.txt" target="_self"> ÈñÃ¢À¯¾÷ (HEECHANG) </a> / 	
 		AUTASK (AUT) / 
 		GREATWAY (GREAT) / 
