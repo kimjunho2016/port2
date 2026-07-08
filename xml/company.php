@@ -35,14 +35,26 @@
 
 <body>
 
+(장혜진)
+&nbsp;<BR>
+(포딩)
+&nbsp;<BR>
+<a href="jbg.txt" target="_self"> JBG (JBG)</a> / 
+<a href="DONGSEO.txt" target="_self"> 동서콘솔 (DONGSUE01) </a> / 
+<a href="GILTON.txt" target="_self"> 길튼해운항공 </a>&nbsp;<BR>
+(실화주) 
+&nbsp;<BR>
+<a href="SINOKO.txt" target="_self"> SINOKO</a> / 
+<a href="SCANTEC.txt" target="_self"> 스칸텍 (SCANTEC) </a> / 
+&nbsp;<BR>
+&nbsp;<BR>
+
 (조희진) 
 &nbsp;<BR>
 (포딩) 
 &nbsp;<BR>
 		글로비즈 (GLOBIZ01, GLOBIZ02) / 
-        <a href="jbg.txt" target="_self"> JBG (JBG)</a> / 
 		로지싱크 (LOGISYNC) / 
-		<a href="DONGSEO.txt" target="_self"> 동서콘솔 (DONGSUE01) </a> / 
 		IMA (IMA01) / 
 		<a href="GTS.txt" target="_self"> GTS (GTS) </a> / 
 		HJ GLS (HJGLS) 
@@ -61,7 +73,6 @@
 		서부산유통 (SEOBUSAN) / 
         <a href="SHOT01.txt" target="_self"> 세아스텐 (SHOT01) </a> / 
 		<a href="SJFLEX.txt" target="_self"> 세종플렉스 (SJFLEX) </a> / 
-		<a href="SCANTEC.txt" target="_self"> 스칸텍 (SCANTEC) </a> / 
 &nbsp;<BR>
 		알뜰농산 (ALDDUL) / 
 		에너지스트 (INT01) / 
@@ -135,7 +146,6 @@
 &nbsp;<BR>
 (포딩)
 &nbsp;<BR>
-<a href="GILTON.txt" target="_self"> 길튼해운항공 </a>&nbsp;<BR>
 <a href="J2K.txt" target="_self"> (주)제이투케이글로벌 </a>&nbsp;<BR>
 <BR>
 &nbsp;<BR>
