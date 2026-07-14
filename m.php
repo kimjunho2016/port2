@@ -60,6 +60,7 @@ background-color: #0085e7
 <a href="https://www.utic.go.kr/main/main.do#" target="_blank"> CCTV 보기(현장 날씨 - 비오는지 보기) </a>&nbsp;<BR>
 <a href="https://dict.naver.com/" target="right"> 네이버 사전 </a>&nbsp;
 <a href="https://www.marinetraffic.com/en/ais/details/ports/87?name=LOS-ANGELES&country=USA" target="_blank"> 마린트래픽(배,항구,지도 보기) </a>&nbsp;
+<a href="https://ckx2022.cafe24.com/htdocs/tgx_invoice/1.php" target="_blank"> TGX INVOICE </a>&nbsp;
 
 
 <BR><BR>

@@ -117,7 +117,6 @@
 		<a href="SUNGIL.txt" target="_self"> 성일 (SUNGIL) /  </a>
 		세진밸브 (SJV01) / 
 &nbsp;<BR>  
-		<a href="SCANTEK.txt" target="_self"> 스칸텍 (SCANTEC) </a>
 		<a href="WOOJIN_PLAIMM.txt" target="_self"> 우진플라임 (WOOJINPLAIMM) </a> 
 		조광 (JOKWANG) / 
 		<a href="jinyang.txt" target="_self"> 진양에너지유틸리티 (CHINYANG) </a> 		
