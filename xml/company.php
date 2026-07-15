@@ -81,7 +81,7 @@
 		이노폴 (INOPOL) / 
 		일신산업 (ILSIN) / 
 &nbsp;<BR>
-		오토일렉스 (AUTO01) / 		  
+		<a href="AUTO01.txt" target="_self"> 오토일렉스 (AUTO01)</a> /  
 		<a href="WOONAM.txt" target="_self"> 우남마린 (WOONAM)</a> / 
 		정아마린 (JUNGA) / 
         제이제이금속 (JJM) / 
