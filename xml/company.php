@@ -46,6 +46,7 @@
 &nbsp;<BR>
 <a href="SINOKO.txt" target="_self"> SINOKO</a> / 
 <a href="SCANTEC.txt" target="_self"> 스칸텍 (SCANTEC) </a> / 
+<a href="VG.txt" target="_self"> 브이지 (VG) </a> / 
 &nbsp;<BR>
 &nbsp;<BR>
 
