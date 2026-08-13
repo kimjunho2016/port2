@@ -62,6 +62,7 @@ background-color: #0085e7
 <a href="https://www.marinetraffic.com/en/ais/details/ports/87?name=LOS-ANGELES&country=USA" target="_blank"> 마린트래픽(배,항구,지도 보기) </a>&nbsp;
 <a href="https://ckx2022.cafe24.com/htdocs/tgx_invoice/1.php" target="_blank"> TGX INVOICE </a>&nbsp;
 <a href="https://ckx2022.cafe24.com/htdocs/quote/1.php" target="_blank"> 견적조회시스템 </a>&nbsp;
+<a href="https://ckx2022.cafe24.com/htdocs/port2/pod_info.php" target="_blank"> POD별 - 선사연락처 </a>&nbsp;
 
 
 <BR><BR>
