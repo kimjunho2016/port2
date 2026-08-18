@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <?php 
 header('Content-Type: text/html; charset=utf-8');
 ?>
@@ -11,6 +11,7 @@ header('Content-Type: text/html; charset=utf-8');
 <a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=SINGAPORE" target="_blank"> SINGAPORE, SINGAPORE</a><br>
 <a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=PASIR GUDANG" target="_blank"> PASIR GUDANG, MALAYSIA</a><br>
 <a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=PORT KELANG" target="_blank"> PORT KELANG, MALAYSIA</a><br>
+<a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=JAKARTA" target="_blank"> JAKARTA, INDONESIA</a><br>
 <a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=MELBOURNE" target="_blank"> MELBOURNE, AUSTRALIA</a><br>
 <br><br>
 
@@ -31,6 +32,9 @@ header('Content-Type: text/html; charset=utf-8');
 <a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=ROTTERDAM" target="_blank"> ROTTERDAM, NETHERLANDS</a><br>
 <br><br>
 
+(지중해) <br>
+<a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=LATAKIA" target="_blank"> LATAKIA, SYRIA</a><br>
+<br><br>
 
 (서 아프리카) <br>
 <a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=WALVIS BAY" target="_blank"> WALVIS BAY, NAMBIA</a><br>
@@ -40,6 +44,7 @@ header('Content-Type: text/html; charset=utf-8');
 (동 아프리카) <br>
 <a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=DAR ES SALLAM" target="_blank"> DAR ES SALLAM, TANZANIA</a><br>
 <a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=DJIBOUTI" target="_blank"> DJIBOUTI, Republic of Djibouti</a><br>
+<a href="https://ckx2022.cafe24.com/htdocs/ckx_code/get_contact.php?pod=DURBAN" target="_blank"> DURBAN, SOUTH AFRICA</a><br>
 <br><br>
 
 
